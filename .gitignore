@@ -1,0 +1,6 @@
+*.swp
+*.aux
+*.log
+book_main.pdf
+auto/
+src-tex/auto/
