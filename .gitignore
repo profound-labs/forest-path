@@ -1,6 +1,8 @@
 *.swp
 *.aux
 *.log
+*.toc
+*.ent
 book_main.pdf
 auto/
 src-tex/auto/
