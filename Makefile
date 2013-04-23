@@ -7,9 +7,13 @@ LATEX_OPTS=-interaction=nonstopmode -halt-on-error
 
 all: book
 
-book:
+book: glossary
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
 
+glossary:
+	makeglossaries $(FILE)
+	echo $(grep -cE '\\glossaryentryfield' `$FILE`.gls)" entries"
+
 clean:
-	+rm -fv $(FILE).{dvi,ps,pdf,aux,log,bbl,blg}
+	+rm -fv $(FILE).{dvi,ps,pdf,aux,log,bbl,blg,gls,glg,glo,xdy}
 

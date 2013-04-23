@@ -3,6 +3,10 @@
 *.log
 *.toc
 *.ent
+*.glo
+*.glg
+*.gls
+*.xdy
 book_main.pdf
 temp/
 auto/

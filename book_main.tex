@@ -4,141 +4,270 @@
 ]{aruno-anecdote}
 
 \title{Forest Path}
+\subtitle{A collection of talks, essays, and accounts from the community at Wat Pah Nanachat}
+\author{}
+\date{2013-04-22}
+\ISBN{978-1-908444-35-6}
+\editionInfo{\textit{Second edition}, 8,000 copies, \the\year, Printed in Malaysia}
 
 \usepackage{mylayout}
 
 \begin{document}
 
-%\input{./src-tex/titlepage.tex}
-%
-%\clearpage
-%\input{./src-tex/copyright.tex}
-%
-%\clearpage
-%\input{./src-tex/frontmatter.tex}
-%
-%\clearpage
-%\tableofcontents
-%
-%\chapter{Preface to Second Edition, 2012}
-%\input{./src-tex/preface-to-second-edition-2012.tex}
-%
-%\chapter{Note}
-%Please be aware that the authors' monastic titles when the
-%original essays were written have been kept (e.g. `Sāmaṇera' or `Tan').
-%You will see in the short summaries added after each essay, which
-%explain what has happened since then, that almost all of them are now
-%senior monks whom we would usually honour by calling them `Ajahns',
-%teachers.
-%
-%\chapter{Luang Por}
-%\input{./src-tex/luang-por.tex}
+%% Frontmatter
+%% ===========
 
-\setChapterAuthor{Ajahn Jayasāro}
-\setChapterNote{An excerpt from the biography of Ajahn Chah dealing with the arrival of Ajahn Sumedho at Wat Pah Pong.}
+\frontmatter
+
+%% Title page
+%% ----------
+%% subtitle, editor, translator, preface by, introduction by, publisher
+
+\cleartorecto
+\thispagestyle{empty}
+\input{./src-tex/titlepage.tex}
+
+%% Copyright page
+%% --------------
+%% publisher info, edition info, ISBN, etc.
+
+\cleartoverso
+\thispagestyle{empty}
+\input{./src-tex/copyright-nanachat.tex}
+
+%% Acknowledgements
+%% ----------------
+%% * acknowledgement of sponsors
+
+\cleartorecto
+\thispagestyle{empty}
+\input{./src-tex/acknowledgements.tex}
+
+%% Dedication
+%% ----------
+
+\cleartoverso
+\thispagestyle{empty}
+\vspace*{4\baselineskip}
+
+\emph{Dedication to the first edition, 1999}
+
+\begin{quote}
+In commemoration of Wat Pah Nanachat's twenty-fifth Rains Retreat, we
+offer this publication as a dedication to Luang Por Chah and to the
+first Abbot of Wat Pah Nanachat, Luang Por Sumedho.
+\bigskip
+
+``No them, no this.''
+\end{quote}
+
+\vspace*{2\baselineskip}
+\emph{Dedication to the second edition, 2013}
+
+\begin{quote}
+We would like to offer the good kamma that arises from this publication
+to the editor of the first edition, Paññāvuddho Bhikkhu, our companion
+in the Holy Life, who passed away in 2005.
+\end{quote}
+
+\clearpage
+\thispagestyle{empty}
+\vspace*{4\baselineskip}
+
+\emph{Abbots of Wat Pah Nanachat}
+
+\begin{quote}
+\begin{tabular}{l l}
+Ajahn Sumedho & 1975-1977\\
+Ajahn Pabhākaro & 1977-1979\\
+Ajahn Jāgaro & 1979-1982\\
+Ajahn Pasanno & 1982-1996\\
+Ajahn Jayasāro & 1996-2001\\
+Ajahn Ñāṇadhammo & 2001-2007\\
+Ajahn Kevali & 2007- present\\
+\end{tabular}
+\end{quote}
+
+%% Table of Contents
+%% -----------------
+
+\tableofcontents
+
+%% Preface
+%% Introduction
+%% ----------------
+
+\chapter{Preface to the Second Edition, 2013}
+\input{./src-tex/preface-second-edition-2013.tex}
+
+%% Verse or quote
+%% --------------
+
+\cleartoverso
+\markboth{}{}
+\input{./src-tex/luang-por.tex}
+
+%% Main matter
+%% ===========
+
+\mainmatter
+
+\chapterAuthor{Ajahn Jayasāro}
+\chapterNote{An excerpt from the biography of Ajahn Chah dealing with the arrival of Ajahn Sumedho at Wat Pah Pong.}
 \chapter{Twain Shall Meet}
-\markright{\chapterAuthor}
+\tocChapterNote{By \theChapterAuthor. An excerpt from the biography of Ajahn Chah dealing with the arrival of Ajahn Sumedho at Wat Pah Pong.}
+\markright{\theChapterAuthor}
 \input{./src-tex/twain-shall-meet.tex}
 
-\setChapterAuthor{Ajahn Jayasāro}
-\setChapterNote{An excerpt from the biography of Ajahn Chah containing advice for meditators.}
+\chapterAuthor{Ajahn Jayasāro}
+\chapterNote{An excerpt from the biography of Ajahn Chah containing advice for meditators.}
 \chapter{Doubt and Other Demons}
-\markright{\chapterAuthor}
+\tocChapterNote{By \theChapterAuthor. An excerpt from the biography of Ajahn Chah containing advice for meditators.}
+\markright{\theChapterAuthor}
 \input{./src-tex/doubt-and-other-demons.tex}
 
-\setChapterAuthor{Ajahn Pasanno}
-\setChapterNote{An edited version of a Dhamma talk given at Wat Pah Nanachat on 18 November 1995.}
+\chapterAuthor{Ajahn Pasanno}
+\chapterNote{An edited version of a Dhamma talk given at Wat Pah Nanachat on 18 November 1995.}
 \chapter{Keep it Simple}
-\markright{\chapterAuthor}
+\tocChapterNote{By \theChapterAuthor. An edited version of a Dhamma talk given at Wat Pah Nanachat on 18 November 1995.}
+\markright{\theChapterAuthor}
 \input{./src-tex/keep-it-simple.tex}
 
-\setChapterAuthor{Ajahn Vipassi}
-\chapter[Facets of Life at Wat Pah Nanachat]{Facets of Life at\newline Wat Pah Nanachat}
-\markright{\chapterAuthor}
+\chapterAuthor{Ajahn Vipassi}
+\chapter[Facets of Life at Wat Pah Nanachat]{Facets of Life at\newline \soChapter{Wat Pah Nanachat}}
+\tocChapterNote{By \theChapterAuthor.}
+\markright{\theChapterAuthor}
 \input{./src-tex/facets-of-life.tex}
 
-\setChapterAuthor{Ajahn Jayasāro}
-\setChapterNote{An edited version of a Dhamma talk given to the Sangha during the 1998 Rains Retreat.}
+\chapterAuthor{Ajahn Jayasāro}
+\chapterNote{An edited version of a Dhamma talk given to the Sangha during the 1998 Rains Retreat.}
 \chapter{The Beauty of Sīla}
-\markright{\chapterAuthor}
+\tocChapterNote{By \theChapterAuthor. An edited version of a Dhamma talk given to the Sangha during the 1998 Rains Retreat.}
+\markright{\theChapterAuthor}
 \input{./src-tex/the-beauty-of-sila.tex}
 
-\setChapterAuthor{Tan Saññamo}
-\setChapterNote{A young monk's reflections on working with discomfort.}
+\chapterAuthor{Tan Saññamo}
+\chapterNote{A young monk's reflections on working with discomfort.}
 \chapter{Mindfulness with Mosquitoes}
-\markright{\chapterAuthor}
+\tocChapterNote{By \theChapterAuthor. A young monk's reflections on working with discomfort.}
+\markright{\theChapterAuthor}
 \input{./src-tex/mindfulness-with-mosquitoes.tex}
 
-\setChapterAuthor{Sāmaṇera Khemavāro}
-\setChapterNote{A novice considers the changes in his attitudes to life following ordination.}
+\chapterAuthor{Sāmaṇera Khemavāro}
+\chapterNote{A novice considers the changes in his attitudes to life following ordination.}
 \chapter{Progress without Movement}
-\markright{\chapterAuthor}
+\tocChapterNote{By \theChapterAuthor. A novice considers the changes in his attitudes to life following ordination.}
+\markright{\theChapterAuthor}
 \input{./src-tex/progress-without-movement.tex}
 
-\setChapterNote{An interview with three Thai monks practising at Wat Pah Nanachat.}
+\chapterNote{An interview with three Thai monks practising at Wat Pah Nanachat.}
 \chapter{No Thai, No Farang}
-\markright{\chapterAuthor}
+\tocChapterNote{An interview with three Thai monks practising at Wat Pah Nanachat.}
+\markright{An Interview}
 \input{./src-tex/no-thai-no-farang.tex}
 
 % Life and Times at Wat Pah Nanachat -- The Teaching of My Life
-\setChapterAuthor{Christine Lem}
-\setChapterNote{A lay meditator considers the challenges and benefits of practising at Wat Pah Nanachat.}
-\chapter[Ten Thousand Joys and Ten Thousand Sorrows]{Ten Thousand Joys and\newline Ten Thousand Sorrows}
-\markright{\chapterAuthor}
+\chapterAuthor{Christine Lem}
+\chapterNote{A lay meditator considers the challenges and benefits of practising at Wat Pah Nanachat.}
+\chapter[Ten Thousand Joys and Ten Thousand Sorrows]{Ten Thousand Joys and\newline \soChapter{Ten Thousand Sorrows}}
+\tocChapterNote{By \theChapterAuthor. A lay meditator considers the challenges and benefits of practising at Wat Pah Nanachat.}
+\markright{\theChapterAuthor}
 \input{./src-tex/ten-thousand.tex}
 
-\setChapterAuthor{Sāmaṇera Gunavuddho}
-\setChapterNote{Exploring identity and the similarities between his training in music and monastic life.}
+\chapterAuthor{Sāmaṇera Gunavuddho}
+\chapterNote{Exploring identity and the similarities between his training in music and monastic life.}
 \chapter{Hey, man, don't give up your music!}
-\markright{\chapterAuthor}
+\tocChapterNote{By \theChapterAuthor. Exploring identity and the similarities between his training in music and monastic life.}
+\markright{\theChapterAuthor}
 \input{./src-tex/hey-man.tex}
 
-\setChapterNote{Two local lay supporters talk about their relationship to the wat.}
+\chapterNote{Two local lay supporters talk about their relationship to the wat.}
 \chapter{Refuge in the Sangha}
-\markright{\chapterAuthor}
+\tocChapterNote{Two local lay supporters talk about their relationship to the wat.}
+\markright{\theChapterAuthor}
 \input{./src-tex/refuge-in-sangha.tex}
 
-\setChapterAuthor{Ajahn Jayasāro}
-\setChapterNote{An interview conducted by Tan Paññāvuddho.}
+\chapterAuthor{Ajahn Jayasāro}
+\chapterNote{An interview conducted by Tan Paññāvuddho.}
 \chapter{Dtao Dam Forest Monastery}
-\markright{\chapterAuthor}
+\tocChapterNote{By \theChapterAuthor. An interview conducted by Tan~Paññāvuddho.}
+\markright{\theChapterAuthor}
 \input{./src-tex/dtao-dam.tex}
 
-\setChapterAuthor{Paññāvuddho Bhikkhu}
-\setChapterNote{Practising in the ancient way at the foot of a tree.}
+\chapterAuthor{Paññāvuddho Bhikkhu}
+\chapterNote{Practising in the ancient way at the foot of a tree.}
 \chapter{Learning Forest Dhamma}
-\markright{\chapterAuthor}
+\tocChapterNote{By \theChapterAuthor. Practising in the ancient way at the foot of a tree.}
+\markright{\theChapterAuthor}
 \input{./src-tex/learning-forest-dhamma.tex}
 
-\setChapterAuthor{Ajahn Piak}
-\setChapterNote{An interview with a senior disciple of Ajahn Chah conducted by\linebreak Ajahn Chandako.}
+\chapterAuthor{Ajahn Piak}
+\chapterNote{An interview with a senior disciple of Ajahn Chah conducted by\linebreak Ajahn Chandako.}
 \chapter{What it Takes to Reach the Goal}
-\markright{\chapterAuthor}
+\tocChapterNote{By \theChapterAuthor. An interview with a senior disciple of Ajahn Chah conducted by Ajahn Chandako.}
+\markright{\theChapterAuthor}
 \input{./src-tex/what-it-takes.tex}
 
-\setChapterAuthor{Tan Acalo}
-\setChapterNote{A monk visits his family after three years at Wat Pah Nanachat.}
-\chapter{Acceptance, Forgiveness and Deep Blue Empathy\ldots{} Going Home}
-\markright{\chapterAuthor}
+\chapterAuthor{Tan Acalo}
+\chapterNote{A monk visits his family after three years at Wat Pah Nanachat.}
+\chapter[Acceptance, Forgiveness and Deep Blue Empathy\ldots{} Going Home]{Acceptance, Forgiveness and Deep\newline \soChapter{Blue Empathy\ldots{} Going Home}}
+\tocChapterNote{By \theChapterAuthor. A monk visits his family after three years at Wat Pah Nanachat.}
+\markright{\theChapterAuthor}
 \input{./src-tex/acceptance-forgiveness.tex}
 
-\setChapterAuthor{Tan Yātiko}
-\setChapterNote{An account of a period practising at the monastery of Tan Ajahn Mahā Boowa.}
+\chapterAuthor{Tan Yātiko}
+\chapterNote{An account of a period practising at the monastery of Tan Ajahn Mahā Boowa.}
 \chapter{Two months at Wat Pah Baan Taad}
-\markright{\chapterAuthor}
+\tocChapterNote{By \theChapterAuthor. An account of a period practising at the monastery of Tan Ajahn Mahā Boowa.}
+\markright{\theChapterAuthor}
 \input{./src-tex/two-months.tex}
 
-\setChapterAuthor{Ajahn Jayasāro}
-\setChapterNote{An edited version of a Dhamma talk given to the Sangha during the Rains Retreat of 1998.}
+\chapterAuthor{Ajahn Jayasāro}
+\chapterNote{An edited version of a Dhamma talk given to the Sangha during the Rains Retreat of 1998.}
 \chapter{Faith in the Quest}
-\markright{\chapterAuthor}
+\tocChapterNote{By \theChapterAuthor. An edited version of a Dhamma talk given to the Sangha during the Rains Retreat of 1998.}
+\markright{\theChapterAuthor}
 \input{./src-tex/faith-in-the-quest.tex}
 
-%\chapter{Coming to Visit Wat Pah Nanachat}
-%\input{./src-tex/coming-to-visit.tex}
-%
-%\chapter{Transliteration of Thai Words}
-%
-%\chapter{Glossary}
+%% Backmatter
+%% ==========
+%% Glossary, Notes, Index...
+
+\backmatter
+
+\bookmarksetup{startatroot}
+
+\chapter{Coming to Visit Wat Pah Nanachat}
+\input{./src-tex/coming-to-visit.tex}
+
+\input{./glossary-additional-words.tex}
+
+\clearpage
+
+\settypeblocksize{32\baselineskip + \topskip}{122mm}{*}
+\setlrmargins{*}{12mm}{*}
+\checkandfixthelayout
+\makeatletter
+\ch@ngetext
+\makeatletter
+
+\chapterstyle{hightitle}
+
+\chapterFootnote{\textit{Note}: These definitions of terms have been collected from a number of free distribution publications of the Forest Sangha. We have also included material from `\textit{A Glossary of Pāli and Buddhist Terms}' edited by John T. Bullitt, available at \href{http://www.accesstoinsight.org/glossary.html}{www.accesstoinsight.org/glossary.html}. Definitions from the different sources have been revised for relevance and consistency.}
+\chapter{Glossary}
+
+\begin{multicols}{2}
+\footnotesize
+
+\printglossaries
+
+\end{multicols}
+
+%% Copyright details
+%% -----------------
+
+\cleartorecto
+\thispagestyle{plain}
+\input{./src-tex/copyright-details-nanachat.tex}
 
 \end{document}
