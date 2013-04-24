@@ -14,6 +14,12 @@ glossary:
 	makeglossaries $(FILE)
 	echo $(grep -cE '\\glossaryentryfield' `$FILE`.gls)" entries"
 
+dozen:
+	rm $(FILE).gl* $(FILE).xdy
+	make all && make all && make all && make all &&\
+	make all && make all && make all && make all &&\
+	make all && make all && make all && make all
+
 clean:
 	+rm -fv $(FILE).{dvi,ps,pdf,aux,log,bbl,blg,gls,glg,glo,xdy}
 
