@@ -1,0 +1,16 @@
+#+TITLE: Print Specs for Forest Path
+
+* Print Specs for Forest Path
+ 
+| Title:               | Forest Path                   |
+| Language:            | English                       |
+| Author:              | various                       |
+| Page width:          | 6in                           |
+| Page height:         | 9in                           |
+| Spine width:         | 16.264mm                      |
+| Mainmatter:          | 288 pages                     |
+| Mainmatter material: | cream 70gsm                   |
+| Cover material:      | 300gsm 2 side coated art card |
+| Cover finishing:     | Matt                          |
+| Binding:             | perfect binding               |
+
