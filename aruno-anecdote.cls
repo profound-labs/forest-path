@@ -374,7 +374,7 @@ philo-sophical}
 \renewcommand\footnoterule{%
   \vspace*{\baselineskip}%
   \kern-3\p@
-  {\color{footnoterule}\hrule height 0.1pt width \columnwidth}
+  {\color{footnoterule}\hrule height 0.25pt width \columnwidth}
   \kern2.6\p@}
 
 % === Page styles ===
