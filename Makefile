@@ -10,6 +10,9 @@ all: book
 book: glossary
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
 
+book-only:
+	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
+
 glossary:
 	makeglossaries $(FILE)
 	echo $(grep -cE '\\glossaryentryfield' `$FILE`.gls)" entries"

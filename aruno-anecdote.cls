@@ -196,8 +196,10 @@
   % It won't be exactly 33 lines because of the parskip numbers,
   % but close enough for our purpose.
   \settypeblocksize{32\baselineskip + \topskip}{*}{0.577}% 1/1.732 (sqrt(3)), Hexagon
-  \setlrmargins{*}{*}{1.125}% 1/0.889 major 2nd, 25.6mm | 22.77mm
-  \setulmargins{*}{*}{1.701}% Tall Pentagon, 17.9mm | 30.52mm
+  % originally: 1/0.889 = 1.125 major 2nd, gives: 21.83mm | 24.56mm
+  % FIXED: Too close to spine. Using a bit more space on the inner margin.
+  \setlrmargins{*}{*}{0.889}% gives: 24.56mm | 21.83mm
+  \setulmargins{*}{*}{1.701}% Tall Pentagon
   \setlength{\footskip}{3\baselineskip}
   \checkandfixthelayout
 
