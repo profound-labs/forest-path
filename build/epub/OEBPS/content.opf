@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="ForestPath" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+    <!-- ISBN -->
+    <dc:identifier id="ForestPath" opf:scheme="ISBN">urn:isbn:000-0-000000-00-0</dc:identifier>
+    <!-- UUID generator: http://www.famkruithof.net/uuid/uuidgen -->
+    
+
+    <dc:title>Forest Path</dc:title>
+    <dc:rights></dc:rights>
+
+    <!-- BISAC Subject Headings List: http://www.bisg.org/what-we-do-0-136-bisac-subject-headings-list-major-subjects.php-->
+    <dc:subject>RELIGION / Buddhism / Theravada</dc:subject>
+
+    <dc:creator opf:file-as="Various Authors" opf:role="aut">Various Authors</dc:creator>
+
+    <dc:source>http://www.fsbooks.org/</dc:source>
+
+    <!-- List of contributors
+
+         See: MARC Code List for Relators: http://www.loc.gov/marc/relators/relaterm.html
+
+         Examples:
+
+         * Editor [edt]
+           Use for a person or organization who prepares for publication a work not primarily his/her own,
+           such as by elucidating text, adding introductory or other critical matter, or technically directing
+           an editorial staff.
+
+         * Cover designer [cov]
+           Use for a person or organization responsible for the graphic design of a book cover,
+           album cover, slipcase, box, container, etc. For a person or organization responsible
+           for the graphic design of an entire book, use Book designer; for book jackets, use Bookjacket designer.
+
+         * Translator [trl]
+           Use for a person or organization who renders a text from one language into another, or from an older
+           form of a language into the modern form.
+
+         -->
+
+    
+
+    <dc:publisher>Aruno Publications</dc:publisher>
+    <dc:date opf:event="publication">2013-05-28</dc:date>
+
+    <!-- Language code: http://en.wikipedia.org/wiki/List_of_ISO_639-2_codes -->
+    <dc:language>en</dc:language>
+
+    <meta name="cover" content="cover-image" />
+
+  </metadata>
+
+  <!-- MANIFEST (mandatory)
+       List of all the resources of the book (XHTML, CSS, images,…).
+       The order of item elements in the manifest is NOT significant.
+
+       http://idpf.org/epub/20/spec/OPF_2.0.1_draft.htm#Section2.3 
+  -->
+
+  <manifest>
+    
+    <item href="stylesheets/style-mobi-kf8.css" id="stylesheets-style-mobi-kf8-css" media-type="text/css" />
+    
+    <item href="stylesheets/style-epub.css" id="stylesheets-style-epub-css" media-type="text/css" />
+    
+    <item href="images/cover.jpg" id="cover-image" media-type="image/jpeg" />
+    
+    <item href="images/publisher-logo.jpg" id="images-publisher-logo-jpg" media-type="image/jpeg" />
+    
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    
+    <item href="chapters/no-thai-no-farang.xhtml" id="chapter_no-thai-no-farang" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/the-beauty-of-sila.xhtml" id="chapter_the-beauty-of-s-la" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/keep-it-simple.xhtml" id="chapter_keep-it-simple" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/acceptance-forgiveness.xhtml" id="chapter_acceptance-forgiveness-and-deep" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/dtao-dam.xhtml" id="chapter_dtao-dam-forest-monastery" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/what-it-takes.xhtml" id="chapter_what-it-takes-to-reach-the-goal" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/facets-of-life.xhtml" id="chapter_facets-of-life-at-wat-pah-nanachat" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/refuge-in-sangha.xhtml" id="chapter_refuge-in-the-sangha" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/copyright-nanachat.xhtml" id="chapter_copyright" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/dedication.xhtml" id="chapter_dedication" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/titlepage.xhtml" id="chapter_title-page" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/mindfulness-with-mosquitoes.xhtml" id="chapter_mindfulness-with-mosquitoes" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/hey-man.xhtml" id="chapter_hey-man-don-t-give-up-your-music-" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/cover.xhtml" id="chapter_cover" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/preface-second-edition-2013.xhtml" id="chapter_preface-to-the-second-edition-2013" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/coming-to-visit.xhtml" id="chapter_coming-to-visit-wat-pah-nanachat" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/twain-shall-meet.xhtml" id="chapter_twain-shall-meet" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/faith-in-the-quest.xhtml" id="chapter_faith-in-the-quest" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/toc.xhtml" id="chapter_contents" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/doubt-and-other-demons.xhtml" id="chapter_doubt-and-other-demons" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/learning-forest-dhamma.xhtml" id="chapter_learning-forest-dhamma" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/progress-without-movement.xhtml" id="chapter_progress-without-movement" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/two-months.xhtml" id="chapter_two-months-at-wat-pah-baan-taad" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/abbots.xhtml" id="chapter_abbots-of-wat-pah-nanachat" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/luang-por.xhtml" id="chapter_luang-por" media-type="application/xhtml+xml" />
+    
+    <item href="chapters/ten-thousand.xhtml" id="chapter_ten-thousand-joys-and-ten-thousand-sorrows" media-type="application/xhtml+xml" />
+    
+    <item href="webfonts/sourcesanspro-light.ttf" id="webfonts-sourcesanspro-light-ttf" media-type="application/x-font-truetype" />
+    
+    <item href="webfonts/sourcesanspro-regular.ttf" id="webfonts-sourcesanspro-regular-ttf" media-type="application/x-font-truetype" />
+    
+    <item href="webfonts/sourcesanspro-italic.ttf" id="webfonts-sourcesanspro-italic-ttf" media-type="application/x-font-truetype" />
+    
+    <item href="webfonts/sourcesanspro-extralight.ttf" id="webfonts-sourcesanspro-extralight-ttf" media-type="application/x-font-truetype" />
+    
+    <item href="webfonts/sourcesanspro-lightitalic.ttf" id="webfonts-sourcesanspro-lightitalic-ttf" media-type="application/x-font-truetype" />
+    
+    <item href="webfonts/existence-light.ttf" id="webfonts-existence-light-ttf" media-type="application/x-font-truetype" />
+    
+    <item href="webfonts/sourcesanspro-bold.ttf" id="webfonts-sourcesanspro-bold-ttf" media-type="application/x-font-truetype" />
+    
+  </manifest>
+
+  <!-- SPINE (mandatory)
+
+       The spine element defines the default reading order of the content. It doesn't list every file in the manifest, 
+       just the reading order.
+
+       The value of the idref tag in the spine has to match the ID tag for that entry in the manifest.
+
+       For example, if you have the following reference in your manifest:
+
+          <item id="chapter-1" href="chapter01.xhtml" media-type="application/xhtml+xml" />
+
+       your spine entry would be:
+
+          <itemref idref="chapter-1" />
+
+       http://idpf.org/epub/20/spec/OPF_2.0.1_draft.htm#Section2.4
+
+       -->
+  <spine toc="ncx">
+    
+    <itemref idref='chapter_cover'  />
+    
+    <itemref idref='chapter_title-page'  />
+    
+    <itemref idref='chapter_contents'  />
+    
+    <itemref idref='chapter_copyright'  />
+    
+    <itemref idref='chapter_dedication'  />
+    
+    <itemref idref='chapter_abbots-of-wat-pah-nanachat'  />
+    
+    <itemref idref='chapter_preface-to-the-second-edition-2013'  />
+    
+    <itemref idref='chapter_luang-por'  />
+    
+    <itemref idref='chapter_twain-shall-meet'  />
+    
+    <itemref idref='chapter_doubt-and-other-demons'  />
+    
+    <itemref idref='chapter_keep-it-simple'  />
+    
+    <itemref idref='chapter_facets-of-life-at-wat-pah-nanachat'  />
+    
+    <itemref idref='chapter_the-beauty-of-s-la'  />
+    
+    <itemref idref='chapter_mindfulness-with-mosquitoes'  />
+    
+    <itemref idref='chapter_progress-without-movement'  />
+    
+    <itemref idref='chapter_no-thai-no-farang'  />
+    
+    <itemref idref='chapter_ten-thousand-joys-and-ten-thousand-sorrows'  />
+    
+    <itemref idref='chapter_hey-man-don-t-give-up-your-music-'  />
+    
+    <itemref idref='chapter_refuge-in-the-sangha'  />
+    
+    <itemref idref='chapter_dtao-dam-forest-monastery'  />
+    
+    <itemref idref='chapter_learning-forest-dhamma'  />
+    
+    <itemref idref='chapter_what-it-takes-to-reach-the-goal'  />
+    
+    <itemref idref='chapter_acceptance-forgiveness-and-deep'  />
+    
+    <itemref idref='chapter_two-months-at-wat-pah-baan-taad'  />
+    
+    <itemref idref='chapter_faith-in-the-quest'  />
+    
+    <itemref idref='chapter_coming-to-visit-wat-pah-nanachat'  />
+    
+  </spine>
+
+  <!-- GUIDE (optional, recommended by Apple)
+
+        The guide lets you specify the role of the book's files.
+
+        Available tags: cover, title-page, toc, index, glossary, acknowledgements, bibliography,
+        colophon, copyright-page, dedication, epigraph, foreword, loi (list of illustrations),
+        lot (list of tables), notes, preface, and text.
+
+        http://idpf.org/epub/20/spec/OPF_2.0.1_draft.htm#Section2.6
+
+       -->
+  <guide>
+    
+    <reference href='chapters/cover.xhtml' title="Cover" type='cover' />
+    
+    <reference href='chapters/titlepage.xhtml' title="Title Page" type='title-page' />
+    
+    <reference href='chapters/toc.xhtml' title="Contents" type='toc' />
+    
+    <reference href='chapters/copyright-nanachat.xhtml' title="Copyright" type='copyright-page' />
+    
+    <reference href='chapters/dedication.xhtml' title="Dedication" type='dedication' />
+    
+    <reference href='chapters/abbots.xhtml' title="Abbots of Wat Pah Nanachat" type='dedication' />
+    
+    <reference href='chapters/preface-second-edition-2013.xhtml' title="Preface to the Second Edition, 2013" type='preface' />
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  </guide>
+
+</package>

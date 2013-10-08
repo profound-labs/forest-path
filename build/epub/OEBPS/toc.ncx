@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:isbn:000-0-000000-00-0" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+
+    <!-- totalPageCount and maxPageNumber are mandatory, but they're not used in ebooks -->
+    <meta content="-1" name="dtb:totalPageCount"/>
+    <meta content="-1" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Forest Path</text>
+  </docTitle>
+  <navMap>
+    <navPoint id='nav1' playOrder='1'>
+<navLabel><text>Cover</text></navLabel>
+<content src='chapters/cover.xhtml'/></navPoint>
+<navPoint id='nav2' playOrder='2'>
+<navLabel><text>Title Page</text></navLabel>
+<content src='chapters/titlepage.xhtml'/></navPoint>
+<navPoint id='nav3' playOrder='3'>
+<navLabel><text>Contents</text></navLabel>
+<content src='chapters/toc.xhtml'/></navPoint>
+<navPoint id='nav4' playOrder='4'>
+<navLabel><text>Copyright</text></navLabel>
+<content src='chapters/copyright-nanachat.xhtml'/></navPoint>
+<navPoint id='nav5' playOrder='5'>
+<navLabel><text>Dedication</text></navLabel>
+<content src='chapters/dedication.xhtml'/></navPoint>
+<navPoint id='nav6' playOrder='6'>
+<navLabel><text>Abbots of Wat Pah Nanachat</text></navLabel>
+<content src='chapters/abbots.xhtml'/></navPoint>
+<navPoint id='nav7' playOrder='7'>
+<navLabel><text>Preface to the Second Edition, 2013</text></navLabel>
+<content src='chapters/preface-second-edition-2013.xhtml'/></navPoint>
+<navPoint id='nav8' playOrder='8'>
+<navLabel><text>Luang Por</text></navLabel>
+<content src='chapters/luang-por.xhtml'/></navPoint>
+<navPoint id='nav9' playOrder='9'>
+<navLabel><text>Twain Shall Meet</text></navLabel>
+<content src='chapters/twain-shall-meet.xhtml'/></navPoint>
+<navPoint id='nav10' playOrder='10'>
+<navLabel><text>Doubt and Other Demons</text></navLabel>
+<content src='chapters/doubt-and-other-demons.xhtml'/></navPoint>
+<navPoint id='nav11' playOrder='11'>
+<navLabel><text>Keep it Simple</text></navLabel>
+<content src='chapters/keep-it-simple.xhtml'/></navPoint>
+<navPoint id='nav12' playOrder='12'>
+<navLabel><text>Facets of Life at Wat Pah Nanachat</text></navLabel>
+<content src='chapters/facets-of-life.xhtml'/></navPoint>
+<navPoint id='nav13' playOrder='13'>
+<navLabel><text>The Beauty of Sīla</text></navLabel>
+<content src='chapters/the-beauty-of-sila.xhtml'/></navPoint>
+<navPoint id='nav14' playOrder='14'>
+<navLabel><text>Mindfulness with Mosquitoes</text></navLabel>
+<content src='chapters/mindfulness-with-mosquitoes.xhtml'/></navPoint>
+<navPoint id='nav15' playOrder='15'>
+<navLabel><text>Progress without Movement</text></navLabel>
+<content src='chapters/progress-without-movement.xhtml'/></navPoint>
+<navPoint id='nav16' playOrder='16'>
+<navLabel><text>No Thai, No Farang</text></navLabel>
+<content src='chapters/no-thai-no-farang.xhtml'/></navPoint>
+<navPoint id='nav17' playOrder='17'>
+<navLabel><text>Ten Thousand Joys and Ten Thousand Sorrows</text></navLabel>
+<content src='chapters/ten-thousand.xhtml'/></navPoint>
+<navPoint id='nav18' playOrder='18'>
+<navLabel><text>Hey, man, don’t give up your music!</text></navLabel>
+<content src='chapters/hey-man.xhtml'/></navPoint>
+<navPoint id='nav19' playOrder='19'>
+<navLabel><text>Refuge in the Sangha</text></navLabel>
+<content src='chapters/refuge-in-sangha.xhtml'/></navPoint>
+<navPoint id='nav20' playOrder='20'>
+<navLabel><text>Dtao Dam Forest Monastery</text></navLabel>
+<content src='chapters/dtao-dam.xhtml'/></navPoint>
+<navPoint id='nav21' playOrder='21'>
+<navLabel><text>Learning Forest Dhamma</text></navLabel>
+<content src='chapters/learning-forest-dhamma.xhtml'/></navPoint>
+<navPoint id='nav22' playOrder='22'>
+<navLabel><text>What it Takes to Reach the Goal</text></navLabel>
+<content src='chapters/what-it-takes.xhtml'/></navPoint>
+<navPoint id='nav23' playOrder='23'>
+<navLabel><text>Acceptance, Forgiveness and Deep</text></navLabel>
+<content src='chapters/acceptance-forgiveness.xhtml'/></navPoint>
+<navPoint id='nav24' playOrder='24'>
+<navLabel><text>Two months at Wat Pah Baan Taad</text></navLabel>
+<content src='chapters/two-months.xhtml'/></navPoint>
+<navPoint id='nav25' playOrder='25'>
+<navLabel><text>Faith in the Quest</text></navLabel>
+<content src='chapters/faith-in-the-quest.xhtml'/></navPoint>
+<navPoint id='nav26' playOrder='26'>
+<navLabel><text>Coming to Visit Wat Pah Nanachat</text></navLabel>
+<content src='chapters/coming-to-visit.xhtml'/></navPoint>
+
+  </navMap>
+</ncx>
