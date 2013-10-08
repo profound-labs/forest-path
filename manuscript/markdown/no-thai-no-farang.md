@@ -643,8 +643,8 @@ The Interviewees
 This previously unpublished interview is from the original material for
 the first edition of ‘Forest Path’. It was not included in the original
 book, probably because of its length. On re-reading, it seemed a real
-pity not to include it this time. Tan Paññāvuddho (see page
-FIXME:pageref), the main editor of the first edition of *Forest Path*,
+pity not to include it this time. Tan Paññāvuddho,
+the main editor of the first edition of *Forest Path*,
 conducted the interview. The three monks interviewed have all in the
 meantime been abroad: Tan Jotimanto went to New Zealand, Tan Jayasiri to
 Australia, and Tan Dhīrapañño stayed with one of his former teachers in

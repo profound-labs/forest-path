@@ -411,5 +411,5 @@ He stayed in various monasteries in Europe, then in 2000 decided to
 return to lay life. He has since returned to live in the UK and built up
 a computer support business.
 
-[^1]: He describes this event himself in ‘No Thai, No Farang’ on page
-    FIXME:pageref.
+[^1]: He describes this event himself in ‘No Thai, No Farang’.
+

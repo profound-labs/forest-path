@@ -9,6 +9,10 @@ Alone with other creatures
 
 > ‘As long as the monks see their own benefit in wilderness dwellings,
 > their growth can be expected, not their decline.’
+>
+> D.II.77; A.IV.20[^dn]
+
+[^dn]: Bhikkhu Aparihaniya-Dhamma, translated by Ṭhānissaro Bhikkhu.
 
 Emerging from meditation while nestled in an isolated spot deep within
 the folds of the forest certainly makes a wonderful way to greet the
@@ -340,6 +344,10 @@ nuns at the time of the Buddha:
 > sympathetic to all beings,\\
 > and I develop a heart full of mettā,\\
 > always delighting in non-harming.’
+>
+> Thag. 648.[^thag648]
+
+[^thag648]: Adapted from K.R. Norman's translation (Pāli Text Society Translation Series No 38, Oxford 1990)
 
 Holding to the principles of non-violence and harmlessness, a monk
 trains not to lift a finger, even in self-defence, to harm another
@@ -448,6 +456,10 @@ the Saṃyutta Nikāya of the Pāli Canon:
 > through sympathy. This is how you watch after yourself when watching
 > after others.’
 >
+> S.V.168[^others]
+
+[^others]: [www.accesstoinsight.org](http://www.accesstoinsight.org/tipitaka/sn/sn47/sn47.019.than.html)
+
 With the simplicity of the *viveka* environment, all the energies of the
 day can be focused resolutely on cultivating the Four Foundations of
 Mindfulness. *Sati* functions as a fulcrum for every aspect of our

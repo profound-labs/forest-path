@@ -1,4 +1,4 @@
-Acceptance, Forgiveness and Deep
+Acceptance, Forgiveness and Deep Blue Empathy... Going Home
 ================================
 
 *By Tan Acalo. A monk visits his family after three years at Wat Pah
