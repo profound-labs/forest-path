@@ -1,6 +1,6 @@
 
 *Dedication to the first edition, 1999*
-{:style="padding-top: 4em;"}
+{:style="padding-top: 2em;"}
 
 > In commemoration of Wat Pah Nanachat’s twenty-fifth Rains Retreat, we
 > offer this publication as a dedication to Luang Por Chah and to the

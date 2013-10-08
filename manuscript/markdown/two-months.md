@@ -1,6 +1,9 @@
 Two months at Wat Pah Baan Taad
 ===============================
 
+*By Tan Yātiko. An account of a period practising at the monastery of
+Tan Ajahn Mahā Boowa.*
+
 Mosquito repellent? Check. Ground sheet? Check. Road map of Isan? Check.
 Spare flashlight batteries? Check. Water filter? Check. Candle lantern?
 Check.

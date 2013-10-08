@@ -1,6 +1,9 @@
 Doubt and Other Demons
 ======================
 
+*By Ajahn Jayasāro. An excerpt from the biography of Ajahn Chah
+containing advice for meditators.*
+
 Doubt is of two main kinds. Firstly, there is the doubt born of a lack
 of sufficient information or knowledge to perform the task in hand. We
 may, for instance, doubt the Buddhist teachings on a particular subject.

@@ -1,6 +1,9 @@
 Acceptance, Forgiveness and Deep
 ================================
 
+*By Tan Acalo. A monk visits his family after three years at Wat Pah
+Nanachat.*
+
 It had been three years since I’d spent any time in the country of my
 birth, when I unexpectedly had the opportunity to return to Australia
 with one of my teachers. Tan Ajahn Anan had been invited to Melbourne,

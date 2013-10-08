@@ -38,17 +38,13 @@ have had previous meditation experience in a retreat setting and
 exposure to Buddhist teachings. Below is an outline of the standard
 daily routine, which varies from time to time.
 
-l p80mm
-
-3:00 AM & Morning wake-up bell\\
-3:30 AM & Morning meeting: chanting and meditation\\
-Dawn & Monks go out to surrounding villages on alms-round. Lay guests
-sweep the monastery or help in the kitchen.\\
-8:00 AM & The meal (followed by short instructions and teachings from
-the Abbot)\\
-9:30 AM & Chores period\\
-4:00 PM & Afternoon drink\\
-6:15 PM & Evening meeting: chanting and meditation\\
+*3:00 AM:* Morning wake-up bell\\
+*3:30 AM:* Morning meeting: chanting and meditation\\
+*Dawn:* Monks go out to surrounding villages on alms-round. Lay guests sweep the monastery or help in the kitchen.\\
+*8:00 AM:* The meal (followed by short instructions and teachings from the Abbot)\\
+*9:30 AM:* Chores period\\
+*4:00 PM:* Afternoon drink\\
+*6:15 PM:* Evening meeting: chanting and meditation
 
 The schedule may be supplemented by periods of group practice, communal
 work or Dhamma instructions according to the needs of the community.

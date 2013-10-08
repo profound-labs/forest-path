@@ -8,6 +8,9 @@
 *.gls
 *.xdy
 auto/
+publish/pdf/
+publish/mobi/
+publish/epub/
 publish/proofing/
 temp/
 TODO.md

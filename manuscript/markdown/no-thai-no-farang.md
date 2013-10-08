@@ -1,6 +1,8 @@
 No Thai, No Farang
 ==================
 
+*An interview with three Thai monks practising at Wat Pah Nanachat.*
+
 In addition to the monks from abroad, a number of Thai monks also come
 to Wat Pah Nanachat to live and practice. Tan Jayasiri, Tan Jotimanto
 and Tan Dhīrapañño are three such monks. Each has lived at Wat Pah

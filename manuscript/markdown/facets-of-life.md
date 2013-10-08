@@ -1,5 +1,7 @@
-Facets of Life at
+Facets of Life at Wat Pah Nanachat
 =================
+
+*By Ajahn Vipassi.*
 
 The north-east of Thailand is flat – the once thick forests are long
 gone – and when one drives along the long straight roads one passes

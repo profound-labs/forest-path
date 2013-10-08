@@ -1,6 +1,8 @@
 Dtao Dam Forest Monastery
 =========================
 
+*By Ajahn Jayasāro. An interview conducted by Tan Paññāvuddho.*
+
 Dtao Dam Forest Monastery is a branch monastery of Wat Pah Nanachat,
 located in the mountainous, thickly-forested jungle of Mae Nam Noy, Sai
 Yok National Park in the Kanchanaburi Province of Thailand. Mostly

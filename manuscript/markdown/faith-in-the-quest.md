@@ -1,6 +1,9 @@
 Faith in the Quest
 ==================
 
+*By Ajahn Jayasāro. An edited version of a Dhamma talk given to the
+Sangha during the Rains Retreat of 1998.*
+
 As a child I was fascinated by quests: I loved reading about Greek
 heroes facing tests of their endurance and ingenuity as they sought some
 great treasure, and of the knights of the Round Table searching for the

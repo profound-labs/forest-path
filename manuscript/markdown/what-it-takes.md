@@ -1,6 +1,9 @@
 What it Takes to Reach the Goal
 ===============================
 
+*By Ajahn Piak. An interview with a senior disciple of Ajahn Chah
+conducted by Ajahn Chandako.*
+
 During the first few years of his monastic career, a young monk’s
 training is divided between Wat Pah Nanachat and other branch
 monasteries of Wat Pah Pong. One of the disciples of Ajahn Chah who has

@@ -1,6 +1,9 @@
 Learning Forest Dhamma
 ======================
 
+*By Paññāvuddho Bhikkhu. Practising in the ancient way at the foot of a
+tree.*
+
 Alone with other creatures
 --------------------------
 

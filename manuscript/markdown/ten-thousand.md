@@ -1,5 +1,8 @@
-Ten Thousand Joys and
+Ten Thousand Joys and Ten Thousand Sorrows
 =====================
+
+*By Christine Lem. A lay meditator considers the\newline challenges and
+benefits of practising at Wat Pah Nanachat.*
 
 When I was asked to write a piece for this Wat Pah Nanachat publication,
 I found it was an opportunity to reflect on and digest the challenges,

@@ -1,6 +1,8 @@
 Mindfulness with Mosquitoes
 ===========================
 
+*By Tan Saññamo. A young monk's reflections on working with discomfort.*
+
 I find it a challenge to be able to translate many of the Pāli words
 found in the *Suttas* into day-to-day experience. Sometimes even the
 most common words such as *sati* or *saddhā* can remain at best loosely

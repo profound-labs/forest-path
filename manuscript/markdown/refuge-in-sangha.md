@@ -1,6 +1,8 @@
 Refuge in the Sangha
 ====================
 
+*Two local lay supporters talk about their relationship to the wat.*
+
 Many people in Thailand have ties to Wat Pah Nanachat. The villagers of
 Ban Bung Wai, even those who rarely go to the wat except for funerals,
 see the monastery as ‘theirs’. They feel a sense of pride about it, and

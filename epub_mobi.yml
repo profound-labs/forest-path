@@ -18,7 +18,6 @@ toc:
   - { title: "Contents", src: 'toc.xhtml.erb', target: mobi, type: toc }
   - { the_matter: mainmatter, section_number: 1 }
   - twain-shall-meet.md
-# @@
   - doubt-and-other-demons.md
   - keep-it-simple.md
   - facets-of-life.md

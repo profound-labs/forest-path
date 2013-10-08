@@ -1,6 +1,9 @@
 The Beauty of Sīla
 ==================
 
+*By Ajahn Jayasāro. An edited version of a Dhamma talk given to the
+Sangha during the 1998 Rains Retreat.*
+
 Ajahn Chah taught us to bear constantly in mind that we are *samaṇas*;
 we have left behind the household life for an existence single-mindedly
 devoted to peace and awakening. He would say that now we must die to our

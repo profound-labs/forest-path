@@ -1,6 +1,9 @@
 Hey, man, don’t give up your music!
 ===================================
 
+*By Sāmaṇera Gunavuddho. Exploring identity and the similarities between
+his training in music and monastic life.*
+
 Barely a month in the robes, I am a newly ordained *sāmaṇera* who is
 still trying to understand exactly what has happened to his life.
 Sometimes I wake up from sleep in a moment of disorientation and ask,

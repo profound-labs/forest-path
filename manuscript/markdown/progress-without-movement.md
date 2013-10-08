@@ -1,6 +1,9 @@
 Progress without Movement
 =========================
 
+*By Sāmaṇera Khemavāro. A novice considers the changes in his attitudes
+to life following ordination.*
+
 My first encounter with the Dhamma was about eight months ago, at the
 end of 1998. A friend of mine, Al, was undergoing short-term ordination
 as a monk in a temple near Bangkok, and invited me to come along to the

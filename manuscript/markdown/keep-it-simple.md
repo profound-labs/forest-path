@@ -1,6 +1,9 @@
 Keep it Simple
 ==============
 
+*By Ajahn Pasanno. An edited version of a Dhamma talk given at Wat Pah
+Nanachat on 18 November 1995.*
+
 When considering the Dhamma, if you look at it in one way it is quite
 complicated, quite complex; there is a lot to know, a lot to figure out,
 a lot of information to digest. Looked at another way, it is quite
