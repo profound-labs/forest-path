@@ -18,8 +18,6 @@ toc:
   - time-machine.markdown
   - { section_name: "Appendix", section_number: 1 }
   - further-comments.markdown
-  - { the_matter: backmatter }
-  - glossary.md
 
 cover_image: "cover.jpg"
 
