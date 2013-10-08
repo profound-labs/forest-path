@@ -7,8 +7,6 @@
 *.glg
 *.gls
 *.xdy
-book_main.pdf
-temp/
 auto/
-src-tex/auto/
-pdf-keep/proofing/
+publish/proofing/
+temp/
