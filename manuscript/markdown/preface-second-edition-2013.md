@@ -1,0 +1,82 @@
+Preface to the Second Edition, 2013
+===================================
+
+‘Forest Path’ was first printed in 1999 and originally planned as the
+first edition of a Wat Pah Nanachat newsletter. Over-enthusiasm and
+considerable proliferation resulted in a one-off book publication which
+more or less coincided with the monastery’s twenty-fifth anniversary.
+Since then we have been surprised by the number of requests to reprint
+this collection of little essays, talks and anecdotes about life in Wat
+Pah Nanachat as it was at that time. Apart from the formal Dhamma talks
+the book contains, we were hesitant at first to reprint its other
+contents, the ‘old stories’ and personal accounts by then younger
+authors. But it was those other parts which in fact added much of the
+book’s authentic flavour and made so many people find it beneficial and
+joyful to read.
+
+Hence it appears that our hesitation over reprinting this book was due
+to a concern that the snapshots of life in the monastery offered by
+those individuals at that time had become dated. In fact, though, on
+recently going through the various contributions again, we found that
+many of those snapshots could still be written today – there would be a
+new cast of players, but the atmosphere experienced then, and
+communicated so vividly in the old ‘outdated’ accounts, is still very
+similar.
+
+So we are happy to realize that when we take the wholehearted
+present-day Dhamma approach of genuinely experiencing what is happening
+at a particular *saṃsāric* moment in life, we also embark on something
+timeless. Beyond the specific details, all our little hopes and sorrows
+around daily life in the monastery and the higher values and principles
+of our life – the Buddha’s core teachings – become apparent in these
+snapshots. Better still, the details of an individual’s unique
+experiences are in fact exemplary: they are transferable and thus pass
+the test of time. Thinking in these terms gives the monks and novices at
+Wat Pah Nanachat extra encouragement, as in many ways it makes the
+limitations and the suffering inevitably entailed by each one’s specific
+experience worthwhile.
+
+Once we became aware of all the ‘good examples’ already to be found in
+the original ‘Forest Path’, the option of rewriting some of the material
+in a 2012 setting as a ‘Forest Path II’ suddenly seemed pointless. With
+*saṃsāra* essentially repeating the same old drama endlessly anyway, we
+thought that simply revisiting the old setting once more with a simple
+reissue of the original would be a much more effective and honest choice
+than reworking the text and suggesting it was ‘new’. It is also true
+tradition to go back a little into the past, with the hope of taking the
+opportunity to realize some timeless truths.
+
+So the material in this new edition of ‘Forest Path’ is an almost exact
+reprint of the old 1999 version, although with editorial assistance we
+have taken the opportunity to correct some of the punctuation and
+grammar. We have also created a few links to the present-day situation
+(which seems fair enough, considering that a big impersonal monastic
+community only becomes a reality when it is embodied in some specific
+individuals). For us now, the present dwellers in the monastery, who in
+most cases did not arrive there in time to meet the great example Luang
+Por Chah in person, it seems most affirming that the principles of
+monastic life as his disciples still permeate the scenes that each new
+generation of monks, novices, *anāgārikas* and visitors has been
+continuously experiencing at Wat Pah Nanachat during the past
+thirty-five years.
+
+So please come and see our monastery for yourself, and get your free
+real-time update on our community by practising the present-moment
+Dhamma with us. In the meantime, we hope you will enjoy viewing these
+historical snapshots again.
+
+Yours in the Dhamma,\\
+On behalf of the Sangha of Wat Pah Nanachat,
+
+Kevali Bhikkhu\\
+Abbot, 2013
+
+Note
+----
+
+Please be aware that the authors’ monastic titles when the original
+essays were written have been kept (e.g. ‘Sāmaṇera’ or ‘Tan’). You will
+see in the short summaries added after each essay, which explain what
+has happened since then, that almost all of them are now senior monks
+whom we would usually honour by calling them ‘Ajahns’, teachers.
+

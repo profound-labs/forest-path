@@ -1,0 +1,638 @@
+Dtao Dam Forest Monastery
+=========================
+
+Dtao Dam Forest Monastery is a branch monastery of Wat Pah Nanachat,
+located in the mountainous, thickly-forested jungle of Mae Nam Noy, Sai
+Yok National Park in the Kanchanaburi Province of Thailand. Mostly
+through the tireless efforts of the monastery’s main lay supporter, a
+brave and determined woman called Tivaporn Srivorakul, the pristine,
+lush quality of the Dtao Dam forest has been well preserved. Tivaporn
+operates a tin mine in the Dtao Dam area, employing Burmese, Karen and
+Mon workers who live in this remote border region in order to escape the
+social and political strife of present-day Burma. Despite great pressure
+on her for many years, she has stood up to all those interested in
+destroying the forest.
+
+At the onset of each hot season, the monks and novices of Wat Pah
+Nanachat make a three-day *tudong* through the National Park into the
+monastery, where they spend two months in retreat. This year (April
+1999), the *tudong* was cancelled due to cattle and drug-smuggling
+activity in the outlying area, forcing the Sangha to be brought in by
+four-wheel drive vehicles. The following interview covering these and
+other issues related to Dtao Dam was conducted by Tan Paññāvuddho at
+Ajahn Jayasāro’s *dtieng* in the Dtao Dam forest.
+
+*Tan Paññāvuddho*: Tan Ajahn, to begin, could you give a brief history
+of Dtao Dam Forest Monastery? How was this place founded, and how has it
+developed and evolved to reach its present state today?
+
+*Ajahn Jayasāro*: In 1979 Ajahn Pasanno was on *tudong* in Kanchanaburi.
+He got to know Khun Sunan, the owner of another mine in this part of
+Kanchanaburi, and she built a *kuṭī* for him in the forest near her mine
+where he spent the Rains Retreat. That mine is now abandoned – we pass
+it as we come into Dtao Dam. Years later the owner of the Dtao Dam mine,
+Yom Tivaporn, was struggling to preserve the forest here in the National
+Park. She thought this would be a wonderful place for forest monks to
+live and train, and hoped that their presence might also deter hunters
+and loggers. So she invited Ajahn Pasanno to bring some monks in and do
+a retreat here. She offered to make sure food and any other requisites
+would be provided, as there’s no village for alms-round. The idea was
+that if it was appropriate some basic *kuṭīs* would be built and two or
+three monks could stay on for the Rains Retreat. Everything worked out
+as she hoped.
+
+*Tan Paññāvuddho*: So in what year did Ajahn Pasanno first bring the
+monks?
+
+*Ajahn Jayasāro*: About eight years ago. That year two monks spent the
+Rains Retreat here in *kuṭīs* built at the foot of this mountain. Since
+then monks have spent the rainy season here on a regular basis.
+Gradually, over the years, there have been developments. A few years ago
+we had a tractor come in and cut a road up to the upper *sāla*. Three
+*kuṭīs* have been built up on the ridge there.
+
+As you know, where we are now (to the west of the upper *sāla* on a
+different mountain, where the inner *sāla* is located) is a very
+densely-forested plateau through which the stream meanders. We have
+twenty *dtiengs* scattered throughout the forest for the monks to use
+during the hot season. On this plateau the climate is very pleasant in
+the hot season, but extremely damp and unpleasant in the rainy season;
+there are many leeches, and if you put a robe out to dry after washing
+it, it may still be wet after twenty-four hours. Hence the need to build
+the upper *sāla* and three small *kuṭīs* on the more exposed ridge over
+to the east of here, so monks can stay at Dtao Dam during the rainy
+season.
+
+We also built a lower *sāla* down at the base of these two mountains.
+The monks walk down in the early morning, take their daily meal and then
+come straight back up the mountain afterwards. There’s no village for
+monks to go on alms-round, which makes this quite an unusual place for
+monks to live and puts serious restrictions on how many can stay here on
+a long-term basis. But we have a lot of lay supporters, particularly in
+Kanchanaburi, who give Yom Tivaporn food and provisions to bring to the
+monastery when the whole community comes in the hot season. There are a
+couple of Burmese families who cook for the monks, particularly one
+lady.
+
+*Tan Paññāvuddho*: Is it common for monks to inhabit forest in National
+Parks?
+
+*Ajahn Jayasāro*: About six years ago there was a period in which the
+presence of forest monks was looked upon by the government as being
+detrimental to the forests. In a number of highly publicized cases monks
+were accused of felling trees to build lodgings and developing
+monasteries in a way that harmed the forest. A government plan proposed
+having all monks living in national parks or reserved forests ejected
+from them. In fact, although there have been isolated instances of monks
+being insensitive to forests they were living in, this has never been
+one of the major problems facing forests in this country. But anyone who
+lives out in country areas knows that the presence of monks is the major
+factor inhibiting deforestation. It’s hard to say to what extent the
+plan was devised out of ignorance, and to what extent it was influenced
+by the forces who want to get the monks out of the way. Fortunately,
+however, there was an about-face – the plan aroused a lot of opposition.
+Tan Chao Khun Payutto wrote an influential pamphlet explaining the
+importance of the forest to Buddhism and Buddhist monasticism, and
+subsequently a new plan emerged which involved giving opportunities for
+monastic communities to help to care for the forest. The new plan
+allowed monasteries to apply for permission from the Royal Forestry
+Department to look after a certain area of land, from a thousand *rai*
+upwards to five thousand *rai*. Looking after the forest in this case
+means little more than living in it in very basic dwellings. The respect
+that monks command, at least amongst the local people, is acknowledged
+to inhibit the destruction of the forest. The Forestry Department is
+seriously understaffed and underfunded. The U-turn regarding the role of
+monks in forest conservation was more or less an admission of defeat.
+They know that they can’t prevent the forest from disappearing and the
+government prefers to spend its money on other things.
+
+So we applied to participate in this programme. In fact, we asked for a
+lot more land than we were eventually given. The head of the National
+Park (suspected by many to be deeply implicated in illegal logging in
+the park and now transferred) was not supportive and cut our application
+down to a thousand *rai*. The only condition laid down for us to be here
+is that we don’t do a lot of building and don’t cut down any trees. We
+have fulfilled our plan to build the three small *sālas* and the three
+*kuṭīs*, so as for the material development of Dtao Dam, I can’t see
+that there is really much more that needs to be done. Anyway, Tivaporn
+feels that if there was to be any more building, the officials hostile
+to her would use it as a pretext to accuse her of something.
+
+*Tan Paññāvuddho*: Who are these officials? Why are they apparently so
+hostile to Tivaporn?
+
+*Ajahn Jayasāro*: Well, she’s a thorn in the side of the ‘baddies’. She
+stands in the way of certain people making a lot of money. Every branch
+of the Thai civil service is plagued by corruption. It seems, at least
+from the outside, that the corrupt officials outnumber the honest ones
+to a frightening degree. In many places corruption is institutionalized,
+difficult to avoid being sucked into because social pressures to conform
+in the workplace are so powerful. Of course there are some who manage
+it, but if you stay honest it means you’re unlikely to advance very far
+in your career. Your boss may well not put you forward for promotions.
+Some people who are ambitious and feel they have something to offer
+society justify their corruption by arguing that it is the only way they
+can get into a position where they can change things for the better.
+
+In the eyes of many people in this country, forests mean money. Dtao Dam
+is, to put it bluntly, big bucks. Some of these people who hate Tivaporn
+don’t see nature as we do when they see a forest, they don’t see
+wildlife – they see money in a previous existence. Trees are money. Land
+and animals are money. And because there is so much corruption, there’s
+so much influence-peddling up to the very highest levels. That means the
+laws don’t have the kind of irrevocable fixed quality that they have in
+the West, at least in most people’s minds. In Thailand you always feel
+that there’s a way to get around things. You can often get things
+changed, get exceptions made, if you know the right people, or if you
+are the right people yourself. There actually was a law prohibiting gas
+pipelines through national forests, so a special law was passed to make
+it all right. At the same time, a sub-clause allowing mining operations
+in national parks somehow slipped in.
+
+There are various kinds of scams for forestry and national park
+officials, the most obvious one being turning a blind eye to the illegal
+logging interests. As time goes on and good timber becomes increasingly
+rare, the whole business becomes more and more lucrative. National parks
+can be eligible for grants for reforestation, but the area in question
+has first to be classified as degraded forest. So a common ploy is to
+light a fire or cut down some trees and then get the designation of the
+land changed. Once it has been declared ‘degraded forest’ you can apply
+for funds for reforestation. Then you can use one part of the grant for
+reforestation but keep the rest for yourself and your henchmen. You can
+also let the loggers have more of the original big trees. And so on.
+
+On the national level, forests all over the country are under pressure
+from the growing human population. The whole question of land settlement
+has become a political hot yam and it brought down the government before
+last. The question that has arisen with some urgency over the past few
+years is: what do you do when poor and desperate people encroach on
+national park or reserved forest in order to clear the land and grow
+themselves some food? If you evict them, where are you going to put
+them? What will be the political repercussions for political parties
+which seek to present themselves as protectors of the poor? The answer
+given by the previous government was to pass a law giving these people
+squatters’ rights, which in effect encouraged people all over the
+country to clear land in national parks for farming.
+
+So there are many pressures on Dtao Dam. Corrupt local politicians,
+government officials, businessmen, soldiers, border police: a lot of
+ethically challenged people have their eyes on the place. Theoretically
+it should not be too hard to protect Dtao Dam. To get wood out there’s
+only one road, and there’s a border police barrier across it and a
+barracks overlooking it. But of course, all the people at the police
+post are on a very low wage, far from home. People at the National Park
+are involved. Everyone takes their share.
+
+*Tan Paññāvuddho*: Tan Ajahn, a couple of weeks ago several of us
+climbed to the top of the tallest local mountain peak, where one can get
+a view in all four directions. From there it is forest as far as the eye
+can see. You have mentioned before that there are plans to build a road
+from Burma into Thailand though this mountain pass. Why are various
+parties so interested in building a road through such remote mountainous
+forest?
+
+*Ajahn Jayasāro*: If you look on a map, you’ll find this pass is the
+shortest and most direct route between the city of Kanchanaburi and the
+Burmese port of Tavoy, which is maybe forty kilometres away. That’s not
+a long way to cut a road. It would provide Thai industry with direct
+access from Bangkok, through Kanchanaburi, to the Andaman Sea – port
+facilities, holiday resorts and so on. The army officers, politicians
+etc. who’ve been buying up land on either side of the prospective road
+would make huge profits when the land prices go up. And of course, once
+the road is cut you open up the entire forest for exploitation. In every
+case that I can think of, a road built through a forested area has
+signalled the beginning of the end for that forest. I don’t think
+there’s any question that the road will be built – it’s just a question
+of what route it will take. The pass here happens to be the easiest
+traverse of this mountain range. Further to the south and to the north
+the mountains are much more difficult to cross. This is why in the past,
+during conflicts between the Thai or Burmese, this was the pass that the
+invading armies would march through. It’s a kind of gap in the mountain
+range. From where we are sitting right now at an elevation of about
+seven hundred metres, we’re only about a fifteen-minute walk from Burma.
+From an engineering point of view it would be a relatively easy job.
+Driving along this route, you’d hardly notice the gradient.
+
+*Tan Paññāvuddho*: So out there, what interested parties besides the
+monks are working to preserve this Dtao Dam forest?
+
+*Ajahn Jayasāro*: Well, the Thai environmental movement is in many ways
+still in its infancy. Probably only in the last five to ten years has it
+had any kind of muscle. It is only very recently that the authorities
+have even felt a need to pay lip-service to environment protection. Of
+course there have always been people warning against the destruction of
+the environment, but during the boom economy that preceded the economic
+collapse, many people just assumed that environmental degradation was
+the price you had to pay for prosperity. Preserving forest was
+considered the concern of romantics or people not living in the real
+world. After all, what does a tree contribute to the gross national
+product? Now, of course, with the economy on the rocks, the reasoning is
+that there are more pressing priorities.
+
+Another telling factor is the perception of forest. Until recently
+forests were associated in Thailand, and indeed throughout Asia
+generally, with backwardness. Cities mean civilization. For example, you
+have the Thai word *Pah-thuean*. ‘*Pah*’ means ‘forest’ and ‘*thuean*’
+means ‘uncivilized’, implying that people who live in the forest are
+backward and uncivilized, and that everything associated with nature is
+the past. That’s been a strong underlying idea in the view of the urban
+population, and particularly perhaps among businessmen and politicians.
+There has never been any sense of the forest as a national heritage that
+should be looked after. And this prejudice is still very strong. It’s
+only recently that there have been attempts to introduce a more
+progressive understanding of nature in the school curriculum, with the
+aim of creating a new respect for nature. Perhaps a period of alienation
+from nature is necessary. As far as I know, love of nature did not
+develop in the West until the Industrial Revolution either. If you look
+at the history of Western art, for example, it wasn’t until the
+eighteenth century that there were pure landscapes, paintings in which
+nature was considered an interesting topic in itself, rather than as
+merely a backdrop for human beings.
+
+So there are various non-governmental environmental groups at work. But
+as far as the government itself is concerned, the Ministry of the
+Environment is officially called the Ministry of Industry, Technology
+and the Environment, which gives you some idea of the priorities and
+conflict of interests there.
+
+*Tan Paññāvuddho*: All three interests lumped together?
+
+*Ajahn Jayasāro*: All lumped together. And it’s the same with the
+Forestry Department. It has a dual role: firstly, caring for the forest,
+secondly, the promotion of agro-forestry. So it’s inevitably tied up
+with big business and not free to preserve the forest.
+
+There are good people, educated people particularly, who are starting to
+appreciate nature and coming together to protect what is left, but they
+often feel somewhat helpless and intimidated by all the forces against
+them. These people live in the cities, a long way away. As you can see,
+I am not particularly optimistic, but there is a bright side. Here at
+Dtao Dam we have representatives from the palace helping us.
+
+Right from the first days of the Thai kingdom in Sukhothai, there was a
+custom whereby on Wan Phra anyone could go to the palace and ring a
+certain bell to request an audience with the King in which to let him
+know their grievances. You could discuss a problem where you hadn’t been
+given a fair deal by the government authorities, for instance, or where
+you’d been the victim of corruption. It was a very special appeal court
+that bypassed the judicial system. This custom has come down to the
+present day. Now it takes the form of an office in the palace to which
+anyone can write and appeal. The people who work in this office liaise
+with the Queen’s private secretaries to investigate these claims, so you
+go right to the top. And since the power of the monarchy is strong, this
+office exercises a lot of influence outside the conventional power
+structures of parliament. People from this office have been instrumental
+in getting some of the most corrupt officials transferred, for example.
+We also have friends in various conservation bodies, as well as a senior
+minister in the present government.
+
+*Tan Paññāvuddho*: What about Nature Care, the environmental
+preservation organization founded by Ajahn Pasanno? How is it involved?
+
+*Ajahn Jayasāro*: Nature Care is an NGO, a non-governmental
+organization, set up originally in Ubon to help preserve the forest
+bordering the Mekong River. Subsequently, with our association with
+Tivaporn, Nature Care established a branch in Kanchanaburi. This
+facilitates applications for funds from businesses and government bodies
+for conservation purposes.
+
+Returning to Dtao Dam again, one of the things that complicates the
+issue here is Tivaporn’s mine. She has been running this mine since well
+before the area was declared a National Park, and she’s deeply in debt.
+The mine also functions as a kind of welfare programme for over 100
+workers and their families, most of whom are undocumented immigrants
+from Burma. Her mining concession will last for another four or five
+years. But people who wish she wasn’t here – she is the main obstacle to
+people destroying the forest – have gone as far as to threaten her life
+on a number of occasions. Others have instigated various rumours to
+blacken her reputation. One of the things that people say is that she
+invited the monks here as a front. Or they say that she’s trying to
+create the image of being an environmentalist, when all she is
+interested in is keeping her mine going. She has even been accused of
+building a private luxury resort here.
+
+*Tan Paññāvuddho*: That’s pretty unbelievable!
+
+*Ajahn Jayasāro*: Well, you’d think so, but as the people spreading it
+were powerful and influential, this accusation apparently reached the
+highest circles of the government and the royal family. As you know,
+last year Tivaporn was given a prize as Thai Citizen of the Year by a
+leading charity of which the Crown Princess is the patron. The charity
+was worried they’d been deceived and decided to investigate. Of course,
+they found the charge was baseless. But these kinds of slurs are leaked
+to the newspapers. Also, senior army officers are given folders
+containing facts about Dtao Dam which distort the picture. For instance,
+Tivaporn was shown a folder two weeks ago in which her signature for an
+application for funds for reforestation of Dtao Dam had been forged.
+It’s not clear whether someone is attempting to embezzle these funds or
+is trying to accuse her of receiving the funds and not using the money
+for reforestation. But this kind of thing is going on all the time. All
+the various parties involved, even the environmental groups, have their
+own contacts, and they hear these things. Naturally, they’re not always
+sure what to believe. So the policy for us has been to invite these
+people in to see for themselves.
+
+Another problem down the road is when the mining concession ends. One of
+the plans is to have various kinds of scientific projects going on,
+especially ones related to biodiversity and botanical research. This is
+an area rich in biodiversity. A botanist was here a few weeks ago and he
+was extremely excited by what he saw, all kinds of things that he’d
+never come across before. So there is a hope that there will be some
+kind of botanical or biological station at the base of the mountain,
+where graduate students can come and do research.
+
+*Tan Paññāvuddho*: What about the animal life? We’ve seen all kinds of
+exotic animals, from elephants to black panthers to white tigers, and
+bizarre-looking creatures unlike anything I’ve ever seen before.
+
+*Ajahn Jayasāro*: That’s why we have those animal-sighting forms, to
+document that these animals are really here. It’s a matter of getting
+this information into the hands of the people with the right intention
+towards forests.
+
+*Tan Paññāvuddho*: Tan Ajahn, you’ve alluded to it somewhat, but could
+you articulate your role as Abbot and as a forest monk in addressing
+these problems?
+
+*Ajahn Jayasāro*: Well, as you know conventionally speaking, I am the
+Abbot of Dtao Dam, but most of the year I live at Wat Pah Nanachat. I’m
+able to come out for a month or two in the hot season, but I keep in
+contact by telephone with Tivaporn when I’m back in Ubon, to stay
+abreast of what’s going on and give her support and encouragement. She
+gets bullied and slandered a lot. It’s a lot to put up with, apart from
+the ordinary pressures of running a business in adverse circumstances
+and struggling to make enough money to keep going. You know what an
+incredible drive it is in and out from here, and you know how often she
+does that. She goes out for a day, then comes back in again, then drives
+a truck all the way to Phuket to sell the ore from the mine, then drives
+all the way back up again to meet with all these academics and
+scientists here for a visit tomorrow. I’ve asked her to phone me right
+away if anything really difficult or heavy comes up. For example, she
+gave us the advance warning about the cattle and drug-smuggling going on
+across the border this year.
+
+Also, a role that one plays as a forest monk who is also an Abbot is to
+be a liaison or central figure. Being the Abbot of a large monastery,
+and having been in Thailand for many years, I’ve come to know a lot of
+people and I can help interested parties get in contact with each other.
+So to summarize my role, I’d say it involves first, giving moral,
+spiritual support, Dhamma teaching, encouragement and reflections.
+Second, in the social role as the Abbot of a well-known monastery who
+knows lots of people, I can help the right people get in touch with each
+other.
+
+*Tan Paññāvuddho*: Seems potentially like a pretty adversarial
+situation. How do you manage to maintain a non-partisan position in a
+scenario that is very partisan?
+
+*Ajahn Jayasāro*: The abbot of a monastery usually plays the role of
+being the referee or the impartial resort for both sides in a dispute,
+whereas here it’s a little different in that we’re part of it. I’m not
+absolutely equanimous about this. I’m not totally impartial. I’m
+definitely on the side of the people who want to save this forest. But I
+find it important to avoid the ‘us’ and ‘them’ way of thinking. Also, I
+don’t personally have to confront these people trying to destroy the
+forest the way Tivaporn does. I’ve met very few of the leading figures.
+And Thai society being what it is, one always keeps up social
+proprieties. If someone were to wish bad things for the forest monastery
+and curse us to our backs, if he met me he’d probably bow and speak very
+politely.
+
+For a monk the principle is always, ‘What’s correct according to
+Dhamma-Vinaya?; what’s wholesome, what’s right?’, and standing up for
+that in certain circumstances, while being sensitive to time and place
+and the way to go about things. And not to come across as being
+adversarial. For example, if something illegal is going on in the
+forest, I wouldn’t confront the person directly, but I might try to see
+their superior, or superior’s superior. Rather than being a problem
+between me and someone, it’s a problem in the wider community that calls
+for the right people to be alerted.
+
+*Tan Paññāvuddho*: In personal terms, training here in this remote, wild
+forest has been a very enjoyable and profound experience. Could you put
+into words why it is so important for monks to train in forests? What
+are the advantages? How do we reflect on and learn from nature in the
+context of Dhamma practice?
+
+*Ajahn Jayasāro*: Well, the practice of Dhamma is one in which it’s very
+important to develop the ability to calm the mind, to make the mind
+peaceful and concentrated. That being so, it’s essential to have a
+conducive environment in which there is nothing too jarring or too
+exciting. So we lead a very simple life, one bared down to the
+essentials, not surrounded by anything man-made or anything that’s going
+to pull you out of yourself. Living in a forest, there’s nothing really,
+nowhere for your eyes to go – just greenness and trees all around. It
+automatically encourages you to incline inwards. The natural rhythms of
+the forest, of the trees and the streams, give a sense of uplift and
+well-being to our minds. They ground us. This provides a very important
+foundation for the meditation practice. It comes to feel natural to be
+by yourself and you come to delight in solitude. Sitting meditation and
+walking meditation become obvious ways to spend time, not something you
+have to push yourself into. I think that for most people support from
+the environment is still vitally important for success in practice.
+Ajahn Chah would often talk of the relationship between physical
+seclusion and seclusion from the Hindrances.
+
+The forest is not quiet, but it is tranquil and it is teaching you the
+laws of nature all the time. The things you see around you are just
+natural phenomena. You’re surrounded by birth, ageing, sickness and
+death, arising and passing away in the most raw and obvious forms. As
+you reflect on those principles internally, your contemplations find a
+resonance outside of you. The phases of the moon, dawn and dusk, the
+play of heat and cold, the whole natural environment attain an increased
+profundity, because they express the nature of things you’re
+investigating internally. You feel a sense of harmony and a seamless
+unity between the inner and the outer.
+
+Living at the foot of a tree, keeping the *dhutaṅga* practices, we also
+have this wonderful feeling of being the inheritors of a tradition that
+stretches back for over 2,500 years. We are not living so differently at
+all from the way the great monks of the Buddha’s time lived. That sense
+of being a part of something larger, something noble that stretches in
+an unbroken line right back to the Buddha: I think that’s a very
+wholesome feeling, one that a monk may cherish.
+
+This particular forest, being home to so many wild animals, gives us the
+opportunity to look at fear, anxiety and attachment to the body in a
+very direct way, seeing the effect they have on our mind, the sense of
+urgency they give us. While living in the forest, a lot of these
+phrases: ‘a sense of urgency’, ‘making every moment count’ – teachings
+we’ve read about and studied – really come alive. In a way it’s
+difficult to articulate, I feel a sense of rightness, a feeling of ‘This
+is exactly how I should be living’, and ‘This is how a monk lives’.
+
+*Tan Paññāvuddho*: In the Suttas, so many passages from the Buddha’s
+enlightenment to the *Parinibbāna* take place under trees. The Buddha
+always lived and practised in the forest when possible. With the forest
+disappearing, and the subsequent likelihood that this will be the last
+generation of forest monks, how do you see a Buddhist monk responding to
+a predicament like this?
+
+*Ajahn Jayasāro*: Well, you don’t have any choice really. There’s not so
+much that can be done. As you become a more senior monk and you have
+more responsibilities and opportunity to teach the Dhamma to lay
+Buddhists, you can at least point out the value of the forest, how
+little remains and the need to look after it. It’s also important to
+point out the relationship between the forest and the Buddhist religion.
+Then as a younger monk, just make the best of the forested areas
+available while you can. But I think it’s really important to have young
+monastics come out and experience this way of practice right from the
+beginning of their monastic career, because it can create such a strong
+impression. You know you’ll remember this for the rest of your life.
+Hopefully you will continue to have the possibility to keep coming here
+or to places like this to train. But even if that is not the case, for
+monks to have the experience of living simply in a forest like this,
+even once, has a ripple effect. As monks become more senior and have
+their own monasteries and their own disciples, they will pass on their
+love of nature and appreciation of the role of solitude in monastic
+life.
+
+But you know, I must admit I sometimes feel that this destruction is not
+going to stop until every last tree outside of private hands is gone. To
+effect a real change, it has to start in the schools. Last week, when I
+went out to see what was going on with the various arson fires in the
+area, Tivaporn was running a retreat for school kids in the village at
+the edge of the forest. And the kids loved it – they really responded to
+the teaching about nature very well. At one point the children were
+asked what their parents do for a living, and three of them replied that
+it was illegal logging. It’s the same everywhere. In Huay Ka Kaeng, just
+north-east of here, there is a lot of wild forest. It’s labelled a World
+Heritage Site. It’s also the place where a forest park official called
+Seup Nakasatheean killed himself as a gesture to call attention what is
+happening to the forests across Thailand. A foundation was set up in his
+name and the army was sent in to look after and patrol the land. But
+still there is cutting going on to this day. I myself don’t see any
+fundamental changes being made until there comes a point where laws are
+laws, and whoever breaks the law is wrong and is dealt with
+appropriately.
+
+But I feel reasonably confident about the prospect of saving Dtao Dam.
+It is really hard to say when you don’t know everything going on, really
+hearing everything second or third-hand. Still, overall, I think there
+are enough people with influence who know about Dtao Dam to keep this
+tract of forest intact.
+
+*Tan Paññāvuddho*: You mentioned that you went to a conference about
+Dtao Dam last year. What was that like?
+
+*Ajahn Jayasāro*: Well, yes, it was strange for me. One has the idea
+that Dtao Dam is a forest far away from anywhere else, where we come on
+retreat every year. But at this conference I walked into a large room
+with academics who all seemed to be experts on Dtao Dam. I was wondering
+where these people came from. They were talking about the biology and
+topography and all kinds of esoteric subjects.
+
+*Tan Paññāvuddho*: Ajahn, when I’m practising *sīla, samādhi, paññā* in
+long periods of solitude in the forest, I sometimes get the sense that
+this in itself feels like the most direct, authentic response to the
+threat of this forest being destroyed, not to mention all the other
+environmental, economic and socio-political calamities on earth. But I
+find it challenging to articulate this. If I were to try to explain it
+to somebody who hasn’t had much experience with meditation, I wouldn’t
+know how to put it into words. But the sense of authenticity seems true
+and real.
+
+*Ajahn Jayasāro*: Yes, I agree, but I also have the same kind of
+difficulty in explaining it, why it is best to practice in this way. One
+thing I said the other day: if we look at the root of all mankind’s
+self-imposed difficulties, there is a common underlying cause. We find
+that because mankind doesn’t know himself, he constantly acts in
+conflict with his own best interests, living merely as the puppet of
+desires, fears and delusions. But practising *sīla, samādhi, paññā*
+deals with these things at their very roots. That way one really works
+with the whole structure of what is going on, rather than just
+responding to a particular expression of it. We study the mind to
+understand what greed is, what hatred is, what delusion is, even in
+their most subtle forms, while developing the skilful means to abandon
+them, to let them go. That seems to me to be as an intelligent response
+as any other.
+
+But with trying to save the forest or whatever, I myself am always wary
+of falling into the trap of ‘I’ve got to do it’, or ‘We’ve got to do
+this’. Once you fall into this ‘We’ve got to!’ mentality, you’ve lost it
+already. Yes, I will do what I can. But who knows what will happen?
+These things occur due to causes and conditions, many of them way out of
+my control.
+
+Recent developments in Dtao Dam
+-------------------------------
+
+*In the following little sequel, Ajahn Siripañño, who has been the abbot
+of Dtao Dam Monastery for the last five years, gives an overview of some
+of the developments which have taken place since the original article
+was written.*
+
+Since the publication of this article, a whole host of factors regarding
+the situation at Dtao Dam have changed, mainly for the better. What
+remain almost entirely unchanged are the pristine nature of the jungle
+there and the ongoing presence of a small number of forest monks
+dedicated to living in the open, under the beautiful tree canopy, with
+the call of gibbons and crickets echoing around.
+
+Regarding Khun Tivaporn and the mine, in 2003 the mine lease expired,
+and with it permission for the hermitage. Certain forces within the
+National Park Department tried their best to force the monks to leave,
+presumably hoping to exploit the area commercially in some way. However,
+pressure from monastery supporters, the national press and, finally,
+from within the National Parks Department itself, resulted in the
+monastery being given permission to stay on, with the agreement to be
+renewed every five years. More stability was achieved when in 2009 the
+Thai government created a nationwide ‘Buddhist National Parks’ project,
+with the specific aim of enabling legitimate monasteries to stay in
+forest areas and make use of national park land for Dhamma practice,
+while at the same time relying on the Sangha for help in preserving the
+forests by keeping an eye open for illegal hunting, logging, forest
+fires and other dangers. In fact, with the closure of the mine and the
+departure from the area of Tivaporn’s family and all the workers, the
+hermitage has become a completely isolated spot right on the Burmese
+border, with very few people coming in and out other than a seasoned
+bunch of off-road vehicle drivers.
+
+As for Tivaporn herself, this hardy woman, now approaching 70, runs a
+community centre on the property surrounding her house on the outskirts
+of Kanchanaburi Town, teaching seminars on environmental matters and
+sustainable livelihood. She also maintains a centre in the village
+nearest to Dtao Dam, Tung Ma Sa Yo, which provides work opportunities
+for her former mine-workers, many of whom remain undocumented due to
+Thai bureaucraticcomplexities.
+
+The road linking Bangkok and Davoy (now usually marked on maps as Tawei)
+is currently under construction. Luckily, the possibility that it might
+actually pass right through the Dtao Dam area was averted when
+sufficient pressure from environmental groups made it clear that this
+would not be acceptable. The route now passes some twenty kilometres
+south of the monastery.
+
+Food is mainly brought in by monastery supporters, cooked by one or two
+resident workers and supplemented by a vegetable garden and forest
+fruits and vegetables, roots, shoots and herbs which can be collected.
+
+Every year a group of monks and novices from Wat Pah Nanachat go there
+to spend the hot season in the same way as they have done for some
+twenty years. The three original *kuṭīs* provide enough shelter for a
+small group of monastics to spend each Rains Retreat there. During the
+last two Decembers a group of students, parents and teachers from
+Panyaprateep school have visited for a few days with Ajahn Jayasāro.
+
+Animals, large and small, are still in evidence. Two years ago a herd of
+elephants strolled through the hermitage, completely demolishing our
+inner *sāla*. Tigers and other forest cats are still being sighted, and
+recently a protective mother bear rushed at one of our monks high up on
+a mountain after her cub had wandered towards him. (Admittedly the monk
+was using a mobile phone at the time, which might have alarmed her even
+more. Both the monk and the monastery Nokia survived unscathed). A
+rustling in the bushes may turn out to be the reclusive Dtao Dam itself
+(a six-legged black turtle), a porcupine with eight-inch quills or the
+bizarre Malayan tapir, a cow-sized beast resembling a combination of
+elephant and rhino. These incidents, though, are very rare. What are
+experienced daily are the beautiful singing of gibbons and the chatter
+of monkeys. A strange rhythmic whooshing sound high in the sky will be
+the flight of a giant hornbill, or even a pair mated for life, as they
+fly through the valleys looking for their regular spots to feast on figs
+and insects in the tree canopy. All this and more, set to music: night
+and day the jungle noises beat out a samba to rival any carnival. The
+streams are still flowing, and the waterfall cascades down several
+levels before levelling off at the foot of the mountain on the top of
+which the monks dwell. The sun rises in the east over Thailand and sets
+in the west over Burma; the timeless rhythm of nature undisturbed by
+man’s whims and fancies. Long may it be so.

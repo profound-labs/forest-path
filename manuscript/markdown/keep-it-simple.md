@@ -1,0 +1,230 @@
+Keep it Simple
+==============
+
+When considering the Dhamma, if you look at it in one way it is quite
+complicated, quite complex; there is a lot to know, a lot to figure out,
+a lot of information to digest. Looked at another way, it is quite
+straightforward – it is just a matter of following it, of doing. There
+is a certain element, particularly, it seems, in the Western
+temperament, which makes us believe that the more information we have,
+the better we will get to know about something, and so the more
+information we have, the better we should be at practising the Dhamma.
+This is actually not true.
+
+A lot of importance should be given to patience: to being able to be
+patient with one’s experience, observing oneself, observing the world
+around one and learning to trust the observer, the watcher, the ability
+of the human mind to pay attention to itself. When we talk about
+liberation or enlightenment, we are actually just talking about paying
+attention, what the attention is directed towards. So it means learning
+to observe oneself, one’s experience, to recognize the quality of the
+mind.
+
+The Buddha particularly emphasized the quality of suffering, of
+unsatisfactoriness. The Four Noble Truths are based on observing this
+quality of unsatisfactoriness. It is something to be known.
+Understanding unsatisfactoriness is a duty to oneself. The problem is
+how we relate to the world around us. The way we relate to each other
+means that we tend either to create or experience unsatisfactoriness.
+Then we hold on to it, cling to it, judge it, try to avoid it; we create
+incredible scenarios around it, we look for someone to blame because of
+it, or we feel sorry for ourselves. So we create a whole range of
+reaction around *dukkha*. But the Buddha says that all we have to do is
+just know it. This quality of knowing is to be turned to, to be focused
+on our experience, and then we learn to recognize that this knowing is a
+point of balance: not affirmation or rejection, not wanting or not
+wanting. It is the balancing of the faculties of the mind. The body and
+the mind are the tools we have for experiencing the world. We revolve
+around the sense faculties of the body and the faculties of the mind:
+the ability to create and experience emotional tones of happiness,
+suffering or neutrality, the ability to remember, to conceptualize, to
+put labels on things through perception, the ability to act in a
+volitional way, to initiate thought processes and be conscious of the
+world around us. These are the tools we have. The practice of the Dhamma
+is learning the quality of knowing: knowing the world around us, both
+the material world of the physical body and the sense spheres of the
+mind, the faculties of the mind; just knowing, not reacting to the
+proliferation around them, but just being with the knowing.
+
+But although this practice is just knowing, it seems complicated because
+the simplest things are difficult to sustain. So we need to develop
+certain tools, certain qualities. The Dhamma provides a theoretical
+framework that may look complicated but facilitates this knowing. It
+requires us to come back to the human heart, which is capable of
+knowing, capable of peace, capable of creating hell round us and capable
+of creating celestial worlds. We have to see this point of clarity and
+stillness within us in order to stop creating worlds around us. Once
+Ajahn Chah and a group of his disciples went to visit a well-known
+disciple of Ajahn Mun, Luang Por Khao. Ajahn Sumedho was one of the
+group. They listened to a Dhamma teaching, and when they were leaving,
+Ajahn Sumedho as the most junior monk in the group was the last to leave
+the room. Just as he was leaving, Luang Por Khao rose quickly and came
+up to him, and since Ajahn Sumedho did not know much Thai at the time,
+Luang Por Khao pointed at his heart and said, ‘It’s all here, it’s all
+here.’ All the talking, the explanations, come back to the heart, we
+have to see this clearly and pay attention to the mind, to the heart.
+
+This is the reason the Buddha gave the teaching of the Four Noble
+Truths, as it is the heart, the mind that motivates us. All sentient
+beings prefer happiness to suffering, so we are motivated to try to free
+ourselves from suffering. Often, however, our attempts to do so are
+either superficial or misguided, and only lead to a temporary
+appeasement of suffering. We put off really dealing with it to the
+immediate or distant future. The Buddha said that it should be dealt
+with by understanding its causes, because we can only understand
+something when we understand its cause. He pointed out that often our
+misapprehension of the truth, of reality, is due to *avijjā*,
+non-knowledge. *Avijjā* is often translated as ignorance, but it is
+really the lack of true knowledge. Through this lack of true knowledge,
+different kinds of desire are created: desire to seek out sensual
+gratification; desire for the affirmation of self, for becoming; desire
+for self-negation, for annihilation, the pushing away of experience –
+not wanting to experience things is also a desire. So this pushing and
+pulling, this grasping after experience is the real cause of our
+suffering.
+
+And so it is the relinquishing of desire that brings about the cessation
+of suffering; we do not relinquish suffering itself. But if we try to
+push away its immediate cause and find something more satisfactory, this
+is not dealing with the real causes, which have to be seen for what they
+are and relinquished. Letting go is something that one needs to feel
+consciously; letting go of holding in our hearts the emotional reactions
+to experiences and relationships and judgements, how things should or
+should not be. It is relinquishing the whole of this, letting go of all
+of it, that is summed up in a short teaching the Buddha gave when he
+said, ‘All dhammas are not to be clung to.’ This is like the core of his
+teaching – everything has to be relinquished, given up.
+
+The nature of desire is to hoard, to cling, to attach to things, to hang
+on. We have to establish attention to this tendency in our practice and
+try to go against it, to let all of it go. When you actually see
+suffering, you want to let go of it. The more clearly you see suffering,
+the more willing you are to let go. It is somewhat similar to the method
+of trapping monkeys. A small hole is cut in a coconut; it should be just
+big enough for a monkey to put his paw in. A piece of some hard fruit is
+put inside the coconut. When a monkey comes, being very curious, he puts
+his paw in, and finding the fruit, he grabs it. Then he is stuck, as the
+hole is too small to get his fist out with the fruit in it. When the
+hunter comes, the monkey keeps pulling at his fist but will not let go
+of the fruit. His desire for gratification is stronger than the
+recognition of the suffering that will follow when the hunter grabs him
+by the scruff of his neck. If the monkey could really see the suffering,
+it would be easy for him to let go of the fruit and get away.
+
+We do the same thing. Suffering is there all the time, but we do not
+relinquish it because we do not see it clearly enough. As soon as we see
+it, we should let it go. But we do not recognize suffering – aversion,
+ill-will, anger – and carry it around with us for long periods of time:
+minutes, hours, days, weeks, months, years, because we can justify it in
+some way. We are also able to suffer tremendously over things which we
+perceive could give us pleasure – and which may even be pleasurable on a
+certain level, but suffering is inherent in them. The clear recognition
+of suffering is therefore related to the ability to let it go. And the
+ability to let go is clearly related to the degree of awareness and
+mindfulness, the stability of knowing. So we come back again to this
+quality of knowing: to the establishment of awareness, the establishment
+of mindfulness.
+
+The purpose of this path, the whole point of our practice, is to
+facilitate this quality of clarity. Mindfulness or awareness is not
+passive; there is a sense of moral responsibility within it, a sense of
+patience and endurance, the ability to bring up effort. Our path lies in
+developing virtue or *sīla* to see our actions and speech clearly and
+take responsibility for them in a moral sense. And we need to develop
+the quality of renunciation and the quality of wisdom in our practice,
+to question, to investigate, to reflect.
+
+At the level of mental training we train to bring forth effort, training
+to recognize ways of cultivating the wholesome and letting go of the
+unwholesome. This is developing stability of mind, concentration,
+steadiness of mind. The steadiness of mind that has to be developed is
+an emotional steadiness in the sense of the heart and mind, not in the
+sense of the analytical mind. It is the ability not to be drawn by our
+habitual preferences, our wanting and not wanting, but to establish
+stability. Concentration sometimes has a sense of focusing, of
+exclusion. Exclusion, the blinkering of the mind, does not lead to a
+really stable and still mind. There has to be an openness, not reacting
+to likes and dislikes, an ability to observe, staying with the knowing.
+So the steadiness pertains to the ability of recognition, the ability to
+observe without a sense of focusing in an exclusive way.
+
+So we need to develop the qualities of investigation. And the Buddha has
+given the parameters, the boundaries of investigation, what to
+investigate and the tools for investigating experience. The structures
+of the Four Noble Truths, the five *khandhas* or aggregates of being and
+the six sense spheres are tools for the delineation of our experience.
+They enable us to recognize the patterns of our mind, the patterns of
+our experience.
+
+So when we sit in meditation, it is very important to have a structure,
+a framework, to guide us in investigating our experience. If we just sit
+and watch the breath going in and out, pretty soon either the mind
+starts wandering and gets hooked to something or other, or else it
+becomes bored and collapses on itself, and you sit in a state of
+dullness. When the mind is in *samādhi* it is ready for work, the work
+of a meditator, which is to investigate one’s experience, to investigate
+what it is that motivates one, what causes the mind to proliferate, what
+it is that creates suffering. What brings a point of balance to the
+mind? These are questions that need to be investigated when we are
+engaged in meditation. Sometimes we sit and wait for an illumination to
+descend upon us and free us from all confusion, but that’s not how the
+mind works. In order to understand the mind and ourselves more clearly,
+we have to apply the mind to look at and investigate the actual problems
+we keep running up against in our experience. This is where we develop
+the exercise of coming back to the breath to encourage mindfulness,
+using the in-breath and the out-breath to clarify the movement of the
+mind. We use the breath as it keeps going in and out as a framework to
+see where the mind is moving, to clarify its movement. This close
+observation within the framework of the meditation object clarifies and
+makes us understand the nature of the mind.
+
+Calmness of mind is not obtained by shutting things out or forcing the
+mind to a point of stillness. The more you force the mind, the more
+tense it becomes. What is needed is application of the mind, using the
+tools set out for us by the Buddha. With the application of effort the
+practice takes on all kinds of meanings, and one finds that gaps in
+one’s understanding are filled in and doubts and misunderstandings
+overcome. So this aspect of wisdom is not just passive knowledge or a
+piece of information that you get from a book or a teacher. It is
+arrived at through applying one’s mind, investigating one’s mind
+honestly. Often our minds create distractions for themselves, creating
+stories around ourselves. Unless you see the mind for what it is, you
+will keep buying into these stories, into all that proliferation. So to
+let go we have to develop clear understanding, relinquish the mind’s
+creations and proliferation, let it all cease.
+
+As we become more and more familiar with knowing, we are able to find a
+quality of relinquishment, a point of stillness within that knowing.
+Ajahn Chah used a lovely image to describe the proliferations of the
+mind. He compares them to the wheels of an ox cart, which create deep
+tracks that seem to go on endlessly. The wheels are not all that big,
+but the tracks are very long. The purpose of our training and our
+practice is to stop that ox cart, to let it come to rest. And this is
+where our practice should be going, in the direction of a point of rest.
+
+The Author
+----------
+
+Tan Ajahn Pasanno was the Abbot of Wat Pah Nanachat for seventeen years,
+between 1980 and 1997. During that period the monastery’s reputation as
+a training centre for monastics in the Ajahn Chah tradition grew both in
+Thailand and abroad. In 1996 plans for the beginnings of a new branch
+monastery were under way in California, under the guidance of Ajahn
+Amaro. When Ajahn Pasanno joined the project with a view to sharing the
+leadership of the new monastery as co-Abbot, wonderful as this news was
+for California, it meant that the Wat Pah Nanachat community and the
+Ubon laity would be saying goodbye to their much-loved teacher.
+
+Ajahn Pasanno nevertheless left Thailand to begin Abhayagiri Buddhist
+Monastery in Mendecino County, California, which is now a thriving
+forest monastery with a recently-opened branch near Portland, Oregon. In
+2010 Ajahn Amaro was invited to return to Amaravati Monastery in England
+to take up the post of Abbot there, leaving Ajahn Pasanno as the sole
+Abbot at Abhayagiri.
+
+Luang Por Pasanno continues to inspire men and women to practice Dhamma
+and lead the holy life. He combines the many facets of the modern
+Western Buddhist monastic culture with maintaining close ties with the
+Thai Sangha. On his annual visits to Thailand he always finds time to
+stay for a while at Wat Pah Nanachat, where the whole community can
+still continue to benefit from his teachings.

@@ -9,15 +9,34 @@ toc:
   - { title: "Cover", src: 'cover.xhtml.erb', target: epub, layout: none, type: cover, linear: no }
   - { title: "Title Page", src: 'titlepage.xhtml.erb', target: epub, type: title-page }
   - { title: "Contents", src: 'toc.xhtml.erb', target: epub, type: toc }
-  - preface.md
+  - { title: "Copyright", src: 'copyright-nanachat.md', type: copyright-page }
+  - { title: "Dedication", src: 'dedication.md', type: dedication }
+  - { title: "Abbots of Wat Pah Nanachat", src: 'abbots.md', type: dedication }
+  - { src: 'preface-second-edition-2013.md', type: preface }
+  - { src: 'luang-por.md', class: verse }
   - { title: "Title Page", src: 'titlepage.xhtml.erb', target: mobi, type: text, class: title-page }
   - { title: "Contents", src: 'toc.xhtml.erb', target: mobi, type: toc }
   - { the_matter: mainmatter, section_number: 1 }
-  - like-a-boat.md
-  - nameless-labyrinth.markdown
-  - time-machine.markdown
-  - { section_name: "Appendix", section_number: 1 }
-  - further-comments.markdown
+  - twain-shall-meet.md
+# @@
+  - doubt-and-other-demons.md
+  - keep-it-simple.md
+  - facets-of-life.md
+  - the-beauty-of-sila.md
+  - mindfulness-with-mosquitoes.md
+  - progress-without-movement.md
+  - no-thai-no-farang.md
+  - ten-thousand.md
+  - hey-man.md
+  - refuge-in-sangha.md
+  - dtao-dam.md
+  - learning-forest-dhamma.md
+  - what-it-takes.md
+  - acceptance-forgiveness.md
+  - two-months.md
+  - faith-in-the-quest.md
+  - { the_matter: backmatter }
+  - coming-to-visit.md
 
 cover_image: "cover.jpg"
 

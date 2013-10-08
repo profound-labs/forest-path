@@ -1,0 +1,657 @@
+No Thai, No Farang
+==================
+
+In addition to the monks from abroad, a number of Thai monks also come
+to Wat Pah Nanachat to live and practice. Tan Jayasiri, Tan Jotimanto
+and Tan Dhīrapañño are three such monks. Each has lived at Wat Pah
+Nanachat for a number of years and has served the community greatly by
+acting as secretary to the Abbot. This interview was conducted by Tan
+Paññāvuddho.
+
+*Tan Paññāvuddho*: All three of you grew up in Thailand. I’d be curious
+to know what were the first impressions you can remember from your
+childhood when you saw Buddhist monks.
+
+*Tan Jayasiri*: There was a branch of Wat Pah Pong (Ajahn Chah’s main
+monastery) near my home in the countryside outside Si Saket. When I was
+a little boy I went to the monastery every day. It was clear to me from
+an early age that I wanted to become a monk in the future. I liked the
+way the monks shaved their heads and wore their robes, not dressing like
+laypeople. When I first went to the monastery I was four years old. I
+went to the ‘Sunday school’ there.
+
+*Tan Paññāvuddho*: What do you remember about the first time that you
+saw the monks in meditation? What feelings arose for you?
+
+*Tan Jayasiri*: I felt special. It was so different from what worldly
+people did. I thought I would like to be like them in the future. I also
+noticed that the monks did not live together, but in the forest in their
+own *kuṭīs*. That interested me. At the forest monastery I observed that
+each monk would put all his food in one alms bowl (curries and sweets
+together), and eat it at one sitting in the morning. When I was young I
+had the opportunity to eat the food left over from the monks’ bowls, as
+is common for laypeople at the monastery. It smelled so different from
+normal food. I thought it smelled like the scent of heaven, very strange
+for me. While I went to school during the week, my grandmother went to
+the wat. At midday she would bring the monks’ food back from the wat, so
+I would go home from school during the lunch break to eat it. If she
+didn’t have any food that day, I felt upset. Years later, on the first
+day I became a monk, I tried to smell the food in my bowl during the
+meal. It smelled normal, nothing special at all. Maybe the smell was
+just bait to get me here!
+
+*Tan Paññāvuddho*: When you were little, did you ever have the
+opportunity to meet any of the great *Kruba Ajahns* like Ajahn Chah?
+
+*Tan Jayasiri*: Sure. When I was a young boy about seven years old, I
+went to see Luang Por Chah at Wat Pah Pong. At that time the monastery
+was still very simple. Although many monks lived there, after the meal
+the place looked deserted because all the monks went back to their
+*kuṭīs* to practice. Luang Por Chah, however, always received many
+visitors. He smiled all the time. When I looked at him I felt something
+very special.
+
+*Tan Paññāvuddho*: Why do you think you had so much faith at an early
+age?
+
+*Tan Jayasiri*: I don’t know. It was just normal for me. When I was
+little and saw suffering in the world, I would think about the monks,
+their robes and their bowls. Ajahn Chah’s smile is always in my memory,
+it has never gone. Even today it is very clear. It is a very special
+feeling for me to be a monk in his tradition. I have never had any
+doubts about Luang Por Chah and the *Kruba Ajahns*.
+
+*Tan Paññāvuddho*: Tan Jotimanto, can you recall your experience when
+you first became aware of Buddhist monks?
+
+*Tan Jotimanto*: Actually, my grandmother was my main influence. When I
+was young I went to the monastery quite often with her. There was a
+forest monastery nearby where Luang Por Poot Thaniyo was the abbot. My
+family was very close to Luang Por Poot. From an early age I was taught
+to pay great respect to the monks. During the Rains Retreat my
+grandmother always went to the monastery on the Wan Phra days, spending
+all day and night observing the Eight Precepts. Sometimes I would go and
+stay with her.
+
+*Tan Paññāvuddho*: When you observed the monks in the forest monastery
+environment, what did you experience?
+
+*Tan Jotimanto*: At that time I thought the monks were very special
+people, and that they must have psychic powers because they taught us
+about heavens and hells. Actually, as is the case with many Thai
+children, I was afraid of ghosts and I thought the monks could help. I
+felt that since the monks had good *sīla*, the ghosts would be afraid of
+them.
+
+*Tan Paññāvuddho*: Tan Dhīrapañño, how about yourself? What were your
+first impressions of the *Buddha-Sāsana*?
+
+*Tan Dhīrapañño*: In my case they were similar to Tan Joti. When I was
+young I grew up with my grandmother in Chonburi, out in the countryside.
+She used to go and *sai baht*[^1] every morning. On Wan Phra she would
+wake up extra early in the morning to make special food for the monks.
+You see, as a little boy I always slept in the same bed with my
+grandmother, so on the days when I woke up and did not see her beside
+me, I knew that day had to be Wan Phra.
+
+*Tan Paññāvuddho*: Can you remember when you were young and your
+grandmother taught you to *sai baht*?
+
+*Tan Dhīrapañño*: I remember her telling me to kneel down, put my hands
+in *añjalī*, be quiet and carefully put food into the monks’ bowls
+without touching the brim. That was in the morning and it was not that
+difficult. On certain special days she would take my cousins and me to
+the monastery. That was the hardest part because I didn’t understand
+most of what the monks were teaching, and I had to sit with my legs
+politely folded behind me in the *papiap* position. I would sit with my
+grandmother in the *sāla* while my younger cousins played loudly
+outside. Anyhow, my grandmother always seemed to be very happy on that
+day, and being around her, somehow I felt very happy too.
+
+*Tan Paññāvuddho*: Tan Jayasiri, what gave you the inspiration to be
+ordained as a monk?
+
+*Tan Jayasiri*: Actually, I always had a strong ambition to become a
+monk. I was thinking about it when I was very young,
+
+*Tan Paññāvuddho*: Did you ever have any doubt, like when you had a
+girlfriend, maybe?
+
+*Tan Jayasiri*: It wasn’t my nature to think like that. I was fortunate
+to come from a happy home. Still, I saw that family life involved a lot
+of suffering. I valued the ideals of simplicity and renunciation, and I
+was always drawn to the monk’s life, dedicated to contemplation and
+peace. From the time I turned fifteen, of course I would be around a lot
+of girls at school. But for some reason my mind would always turn to the
+monks. When it came to having a girlfriend, I wasn’t averse to it, but I
+always thought that I should practice the path of the Buddha first. When
+I turned twenty I asked my mother’s permission to become a monk
+immediately. I asked her several times, and finally she said ‘OK.’ She
+said she would be happy for me to be a monk, but not for too long, maybe
+a few years. She felt that a short while would be enough for me and then
+I should return to her and the family.
+
+*Tan Paññāvuddho*: What does she say now that you have been a monk for
+almost ten years?
+
+*Tan Jayasiri*: She is quite happy now. Not like in the first few years,
+though, when she would always wish for me to go back to lay life.
+
+*Tan Paññāvuddho*: Tan Joti, what gave you the inspiration to go forth
+as a monk?
+
+*Tan Jotimanto*: It also happened when I was young. I had the chance to
+see Luang Por Poot frequently with my grandmother. Once at his monastery
+a senior monk from Luang Por Mun’s monastery pointed to me and said,
+‘You should become a monk.’ This statement stuck in my mind all through
+the years. When I was a teenager I went to Wat Pah Pong and had the
+chance to see Luang Por Chah. He was still healthy at that time. During
+those days I had heard Ajahn Chah was very strict and fierce, and you
+know, when you are young, you are not that interested in the strict
+monks.
+
+Later my cousin introduced me to Wat Pah Nanachat. At that time I was
+working as a lawyer in the nearby city, Ubon. That was quite a stressful
+period in my life. When I visited Wat Pah Nanachat I was very impressed
+with the peaceful quietude of the forest, and the mindfulness and
+kindness of the monks. My mind started to calm down. Ajahn Pasanno and
+Ajahn Jayasāro were the senior monks at that time.
+
+*Tan Paññāvuddho*: Was that before you went to live in New York City to
+help run a large restaurant?
+
+*Tan Jotimanto*: Yes, it was. After my first visit, I came and went to
+and from Wat Pah Nanachat for two or three days at a time as a layman
+during one and a half years. Then I moved to the States. I worked hard
+at the restaurant in Manhattan and earned enough money to support the
+family back home. I had the financial independence to have almost
+anything I wanted, but I was not happy. I did not know what the point
+was. One day I went shopping with my friends. They asked me what I
+wanted to buy and I stopped. I felt a profound sense of boredom with
+worldly things and experiences. I had had enough. It was a very free and
+liberating kind of feeling. Reflecting back on my life, I realized that
+what I really aspired to was to practice the Dhamma and be a monk. But I
+had to prepare for that and it took time.
+
+*Tan Paññāvuddho*: How did your parents feel when you said you wanted to
+become a monk?
+
+*Tan Jotimanto*: They were happy that I would become a monk for just one
+Rains Retreat. It is the tradition for Thai men to be ordained for one
+rainy season, and my two other brothers had already done so. But I did
+not want to ordain for only one Rains Retreat. I wanted to stay a monk
+as long as I felt it was meaningful, and disrobe if I did not like it.
+It was quite difficult for my parents at that time. They had to think
+about it, and finally they gave me permission. At that time both of my
+parents were elderly and not in good health. Even though it was very
+difficult for them to allow me to ordain, they wanted what was best for
+me and were generous enough to make the sacrifice. This willingness on
+their part showed me how much they really loved me. Once they saw me as
+a monk, especially as a forest monk, they liked it and were inspired
+themselves to practice. Through Dhamma practice they really changed the
+way they lived their lives. After I had been a monk for just one year,
+they said, ‘Don’t ever disrobe.’ [Laughter]
+
+*Tan Paññāvuddho*: That was quick.
+
+*Tan Jotimanto*: They were very happy. I felt very lucky to have the
+chance to repay my debt of gratitude to my parents, who passed away soon
+after, by helping to teach them more about the Dhamma. In the last few
+years of their life we discussed the Dhamma many times, and I shared
+with them some books and tapes of Luang Por Chah such as ‘Our Real
+Home’. I noticed my parents became much more contented and at ease with
+life. They deepened their understanding of impermanence and reflected on
+the inevitable separation at death. They started to practice every day.
+My father died first, but my mother continued to be strong in spirit due
+to her Dhamma practice, despite her poor health. She died four months
+later, and at the time that she died she was about to make an offering
+to the Sangha. The day she died it was a blessing to know that she was
+happy and at peace.
+
+*Tan Paññāvuddho*: Tan Dhīra, what about you? You also were working in
+America before coming to be ordained, weren’t you? What made you change
+direction to become a monk?
+
+*Tan Dhīrapañño*: After I finished medical school in Thailand, I had to
+decide what to do. First I wanted to be a pediatrician like my mother,
+and I wanted to do my internship in the West. In those days, however, it
+was difficult to train in America. Finally I was accepted for the
+programme in Michigan. During one of the first teaching rounds in the
+hospital, the attending doctor asked the residents where they came from
+originally. When the doctor found out that I came from Thailand, he
+smiled broadly and asked me, ‘So you’re from Thailand, are you? What is
+Nirvana?’ I was shocked. I did not expect this kind of question in the
+West. I don’t remember what I answered, but it made me think hard. I had
+gone all the way to America in search of knowledge, but I wondered if
+what I was looking for was in my own country.
+
+*Tan Paññāvuddho*: So how did you end up at Wat Pah Nanachat?
+
+*Tan Dhīrapañño*: In Detroit the local Thai community would have a
+pot-luck meal at my aunt’s house every weekend. They would talk and then
+sit in meditation together. I joined the group once in a while. The
+benefit of attending was the plentiful and delicious food, and my aunt
+always insisted that I take the leftover food, because she knew that I
+lived by myself and was not good at cooking. I have to admit that this
+was the original inspiration for my meditation practice. One day several
+years later I found a post on the Thai student internet that Ajahn
+Jayasāro was coming to teach a meditation retreat in Maine. This
+‘backpack retreat’ took place in Acadia National Park, and it turned out
+to be a life-changing experience for me. In the morning and the evening
+we chanted a *pūjā* together in Pāli and Thai. My grandmother had taught
+me to chant every night before I went to bed, and I had been doing that
+since I was a child, but I knew very little about what it meant.
+
+During the retreat I was very moved to learn the deep meaning of what I
+had been chanting all along. During the day we hiked on different
+trails. When we got tired we sat in meditation. During the questions and
+answers session each day, I was very impressed by Ajahn Jayasāro’s
+wisdom. On the last day of the retreat we had the ceremony of asking for
+forgiveness from the Ajahn. It was a beautiful tradition. While we were
+walking to the park for this ceremony, Ajahn Jayasāro handed me his
+bowl. That was the first time that I had carried a monk’s bowl and I
+felt very happy. I don’t know how to describe it, but it was a special
+feeling that I will never forget. Tears filled my eyes. Time seemed to
+stand still. At that moment I felt that I too could become a monk and
+strive to be like the great *Arahants*. That was the moment I decided to
+become a monk.
+
+*Tan Paññāvuddho*: Your family had put you through medical school and
+supported your training as a doctor in America – was this a shock to
+them?
+
+*Tan Dhīrapañño*: I would say yes. The year that I met Ajahn Jayasāro
+and decided to become a monk, I told them of my decision, but they did
+not believe it. They thought I was broken-hearted or something
+[laughter]. But I persisted. For the next two years, while I was waiting
+to finish my training, I tried to keep the Five Precepts on a regular
+basis and the Eight Precepts once a week. My friends started to think
+that I was weird, but I found I was more and more peaceful. I would
+spend more time on meditation retreats, where I felt very much at home.
+When I finished my fellowship I came back to Thailand and found my way
+to Wat Pah Nanachat. I asked Ajahn Jayasāro to ordain me so I could
+continue on the path. Of course, my parents had high expectations for
+me. But I think I did not let them down, although at the time they might
+have thought differently. For me, becoming a monk is more challenging.
+There are already many doctors in my family, but there is not a single
+monk. There are many meaningful and worthwhile things to develop and
+cultivate in this holy life.
+
+*Tan Paññāvuddho*: Have they grown to accept your decision by now, or
+they still hoping that you will come back?
+
+*Tan Dhīrapañño*: As time passes, they have begun to appreciate what I
+am doing as a monk. To be honest, my parents’ generous, loving support
+throughout my life gave me the emotional strength to feel ready to go
+forth as a monk. For me the monastic life is not so much a rejection of
+the family life as a way to evolve one step further. If I weren’t a monk
+in this life, I would feel in my heart that I had not fulfilled my
+responsibility to the family in a higher sense.
+
+*Tan Paññāvuddho*: Tan Jayasiri, what was it that originally brought you
+to Wat Pah Nanachat? How did you decide to come here to train when there
+also are many other good Thai forest monasteries?
+
+*Tan Jayasiri*: Just before I ordained I went to Wat Pah Pong and met
+Luang Por Sumedho and Ajahn Jayasāro. From that moment I wanted to be
+with them. I was ordained in Ayudhya, and after spending the first five
+years there I came to Wat Pah Nanachat.
+
+*Tan Paññāvuddho*: What was it that attracted you to Luang Por Sumedho
+and Ajahn Jayasāro?
+
+*Tan Jayasiri*: It’s hard to put into words – I just wanted to be with
+them. Their presence was peaceful and inspiring. I felt that to practice
+under their guidance would be beneficial.
+
+*Tan Paññāvuddho*: Did you feel that they were different from the Thai
+Ajahns?
+
+*Tan Jayasiri*: No, similar.
+
+*Tan Paññāvuddho*: Having come to practice at Wat Pah Nanachat, how do
+you find practising with Western monks, compared to the Thai Sangha?
+
+*Tan Jayasiri*: Actually, in my practice, I never feel that I’m
+practising with special people. Everywhere I stay I always just keep
+Ajahn Chah’s practice.
+
+*Tan Paññāvuddho*: Which part of Luang Por Chah’s teaching do you find
+most important in your practice?
+
+*Tan Jayasiri*: To watch and investigate feelings and the mind. Seeing
+impermanence.
+
+*Tan Paññāvuddho*: Why do you think that in Thailand, where there are
+many great *Kruba Ajahns*, so many of the *farang* monks have been
+ordained with Luang Por Chah or in his specific lineage?
+
+*Tan Jayasiri*: Yes, there are many great *Kruba Ajahns* in Thailand,
+but Luang Por Chah was a special monk. He had his own style of
+explaining the Dhamma in a simple yet profound way. It was easy to
+understand his teachings. His presence made an impact. People were happy
+to see him. Everyone liked to be around him. He set up a style of
+training that is helpful and suitable for many different kinds of
+people.
+
+*Tan Paññāvuddho*: Tan Joti, what made you decide to be ordained at Wat
+Pah Nanachat as opposed to another Thai forest monastery?
+
+*Tan Jotimanto*: As I had known about Wat Pah Nanachat for some time, I
+knew that I liked the way of life and I felt the monks were very sincere
+and diligent in their practice. Still, I went to visit Tan Ajahn Dtun
+before ordination. I liked it there too, but the monastery was very
+close to my family’s house in Chonburi. I wanted to ordain away from my
+home, so I came here to Ubon. Also, I felt inspired to ordain with Ajahn
+Jayasāro.
+
+*Tan Paññāvuddho*: How would you compare living with Western monks to
+living with Thai monks?
+
+*Tan Jotimanto*: In many ways things are the same, but there can be some
+cultural differences. People at Wat Pah Nanachat come from many
+different places. Although the community is usually very harmonious,
+from time to time difficulties or misunderstandings can arise. As Thais
+we are taught to keep things inside ourselves. We don’t know how to
+express ourselves. But when I came here it seemed everybody knew how to
+express himself. I have been trying to learn to do this skilfully, but
+it is still difficult. I think that if people in a monastic community
+express their feelings too much, it can create some problems. For
+example, people will not learn to cultivate patience. On the other hand,
+I think that open communication is usually valuable because it increases
+understanding between people. For Thai people, if there are problems we
+just don’t talk about them. The ideal is to find the middle way.
+
+*Tan Paññāvuddho*: Tan Dhīra, how about you? Was it your connection with
+Ajahn Jayasāro that decided you to be ordained here as opposed to a Thai
+monastery?
+
+*Tan Dhīrapañño*: At that time I didn’t know much about other
+monasteries in Thailand. I did retreats at Ajahn Buddhadāsa’s monastery,
+Suan Mokkh, and a couple of other places. But I thought my weak point
+was the Vinaya, the discipline. So I tried to find a place where there
+was a strong sense of community and strict monastic training. I first
+came to Wat Pah Nanachat mainly because of my connection with Ajahn
+Jayasāro, and I liked it right away. I particularly loved the feeling of
+the forest. The paths were well swept and there was a good environment
+for meditation. And perhaps most importantly, I immediately connected
+with the Sangha. I felt at home here.
+
+*Tan Paññāvuddho*: Now I have a question for any of you. Many people
+think that in Thailand today there is a crisis with the *sāsana*. There
+have been scandals with monks not keeping the Vinaya, and some
+Western-educated lay Buddhists are critical of a Sangha that they feel
+is stuck in old-fashioned ways. What do you see as the future of the
+*sāsana* in Thailand?
+
+*Tan Jotimanto*: I think people are more interested in the *sāsana* now.
+They understand what is going on more. Before people held the *sāsana*
+in very high esteem, maybe too high and it became out of touch. Now lay
+Buddhists are freer to speak their views and to be heard.
+
+*Tan Paññāvuddho*: Do you think this is due to Western influence?
+
+*Tan Jotimanto*: It could be.
+
+*Tan Paññāvuddho*: How do you think this new attitude will affect the
+monks’ practice? Some contend that the more worldly orientation and
+values of lay life can be counter-productive when brought into the
+sphere of monasticism. Any opinions?
+
+*Tan Jayasiri*, *Tan Jotimanto*, *Tan Dhīrapañño*: [Long pause, then
+laughter.] It is a difficult balance.
+
+*Tan Paññāvuddho*: In the West there is a stress on the value of
+equality, but the Buddha noted that the view ‘I am equal’ is still a
+form of attachment to self-identity view. Some monks contend that is
+important not to sacrifice *samaṇa saññā* (the perception of being a
+peaceful renunciant) at the expense of conforming to current worldly
+norms.
+
+*Tan Jotimanto*: One example of this can be the way we use hierarchy.
+Thais maintain very high respect for the Ajahn. When Thais live in a
+Western community we still put the Ajahn in a high position. In effect
+there is a sense of formality and respectful distance. However, I’ve
+noticed that Westerners are more informal and relaxed around the
+teacher. For them, their relationship with the Ajahn can be like with a
+friend. For Thais this would be uncomfortable. I wouldn’t allow myself
+to play the role of a friend to the Ajahn, even if I wanted to. Thai
+monks can be very close to the teacher, but there is always a formality
+in the relationship.
+
+*Tan Paññāvuddho*: That’s very interesting. It seems common in various
+Buddhist traditions to keep the teacher in a formal position, so as to
+maintain proper respect. If one doesn’t have that respect it is very
+difficult to learn, to have pure communication from the teacher to the
+student. Do you think Westerners may miss out on learning something
+because of the casualness with which they can relate to the teacher?
+
+*Tan Jotimanto*: Yes. In Thailand, even if the Ajahn is young or has
+about the same number of Rains Retreats, he still is accorded formal
+respect as a teacher. It may be natural to feel a level of friendship in
+this situation, or not to want to listen to the Ajahn as someone senior
+in the hierarchy. But in a Thai wat this would rarely happen, because
+the Ajahn is always placed so high.
+
+*Tan Dhīrapañño*: Take Tan Jayasiri, for example. He will turn into an
+Ajahn very soon, and it will be difficult for us to relate to him. We
+used to be close to him and tell jokes around him. When he becomes an
+Ajahn we will have to change that perception. He will be put in the
+special position of a teacher soon. [Laughter]
+
+*Tan Jayasiri*: I think there is a time and place for that. It’s not
+always the case that the Ajahn plays the role of the formal teacher.
+When a situation in which respect is appropriate arises, we act
+accordingly, like a young son with his father. The feeling of a close
+relationship makes it easier to talk with each other.
+
+*Tan Paññāvuddho*: For Western monks it usually requires some effort to
+adapt to hierarchical social structures in a skilful way. For example,
+in Western culture one tends to relate to people directly, not in terms
+of a formal hierarchy. One shows respect through mutual friendship,
+openness and trust.
+
+However, in the Buddhist tradition, respect and trust of one’s teacher
+and fellow monks can be conveyed by selflessly and harmoniously acting
+in accordance with one’s formal place in the relationship. This can be a
+subtle and refined thing, something many of us Westerners can learn to
+do better. It is a challenge to adopt a new cultural form naturally,
+without fabricating a new identity that isn’t authentic.
+
+When I live in Thai monasteries, however, it seems comfortable to fit
+into the hierarchy and relate to the Ajahn formally. Formal separation
+feels natural. It can also be useful. The Dhamma teachings flow much
+better this way. But when I am with many senior Western monks, it often
+feels appropriate not to overdo a formality that is unnatural in our
+culture. But the form of these relationships changes depending on the
+context, whether in Asia or the West, as individuals or in a group,
+inside the monastery or out in public. One has to be alert and sensitive
+in order to adapt.
+
+*Tan Dhīrapañño*: I think there are both benefits and drawbacks to the
+‘equality’ form. In Thailand the hierarchy system is so strong that when
+I was young I had very little idea about what monks do. The closest I
+came to the monks was offering alms-food or listening to a Dhamma talk.
+That was it. It never occurred to me that the monk’s life was another
+lifestyle that I might choose. Today is different from the old days,
+when the monastery was also the local school and a community centre, and
+good monks were role models for the whole community.
+
+When I met a Western monk, however, somehow that rigid hierarchy was
+weakened. When I spent a week hiking in America, listening and talking
+to Ajahn Jayasāro, I felt very close to him. I felt that I could ask any
+question I liked and his answers touched me personally. Perhaps my
+Western education enabled me to understand the Dhamma better in Western
+terms. But I have to say that Ajahn Jayasāro is more Thai than many Thai
+people I know. Even when I first met him, during many talks we had, he’d
+always correct my use of Thai words. I also think the personality of the
+teacher is important. When we like the teacher, we like the subject too.
+I have much gratitude for that chance to have a close relationship to
+the Ajahn while in America, something I had not yet experienced in
+Thailand.
+
+But there are also drawbacks to the ‘equality’ form that I can see more
+clearly now that I am in robes. In monastic life, identifying with being
+‘equal’ can be detrimental. If everybody is the same, we may not listen
+to or show appropriate humility around a more senior monk, especially if
+our views tell us that we know more than him. It can seem natural for
+the mind to follow its own *kilesas*, but there will be no spiritual
+growth then.
+
+Another way to put it is that I think it is best to recognize equality
+in terms of Dhamma, while realizing hierarchy is important when it comes
+to communal life and the Vinaya. Hierarchy can be a very skilful means
+if we use it correctly. Personally, as a monk, I feel that I want to
+keep the hierarchical relationship with the Ajahn, to keep him high, so
+I can do what he teaches with respect and not treat his teaching
+casually.
+
+*Tan Paññāvuddho*: Very soon, Tan Jayasiri, you will be going to
+Australia. What is it that interests you about practising in the West?
+Why would a Thai monk leave his own country and go to practice Dhamma in
+Australia?
+
+*Tan Jayasiri*: The idea came from Ajahn Ñāṇadhammo. He spoke to me
+about this two and a half years ago. He said that the monastery there is
+a good place with an excellent teacher. At that time I wanted to
+continue to practice at Wat Pah Nanachat. Now the time is appropriate
+and I have decided to go. I think it will be valuable for me to be
+tested by a new experience. After working as the secretary at Wat Pah
+Nanachat, the opportunity for more solitude in Australia will be good. I
+can speed up my practice. There I will have more free time. I can set up
+my practice schedule the way I like.
+
+*Tan Paññāvuddho*: In the West many people have been interested in
+Dhamma practice for decades, but not many people have become monks. Most
+people prefer to keep the lay practice. Conversely, young men in
+Thailand may have little exposure to Dhamma practice, but they still
+have an interest in going forth. Do you think that in the West in the
+future this pattern will change?
+
+*Tan Jayasiri*: Yes, in the future it will change. But in becoming a
+monk, one has to give up so many things. When you become a monk, the
+important foundation is the discipline. Someone with many attachments
+might feel it is a narrow path and might not feel comfortable. They
+might think it is more convenient to practice with just the Five
+Precepts. To a Westerner the monastic precepts may seem like a lot at
+first. They go against our habit in the lay life of being preoccupied
+with making and acquiring things as the way to realize happiness. As
+monks we have few requisites. But even though we may be ordained, we can
+still have the same perceptions as when we were laymen. When a monk is
+ordained on the outside, it doesn’t mean he is ordained on the inside.
+We can also feel there are too many precepts, because we still hold the
+views and attachments we had in the lay life. So we have to put a lot of
+effort into the practice. After some years the results of the practice
+will appear. Perceptions and feelings from the lay life will transform
+naturally.
+
+These days, with modern communications and international travel, it is
+more possible for people to be exposed to the possibility of practising
+the Dhamma through monastic life. In the West you can sometimes see
+monks out in society and leading retreats. People can see how a monk
+conducts himself and lives his life. With more exposure to this, some
+people may become interested in ordination.
+
+*Tan Paññāvuddho*: Tan Joti, you will be going soon to our branch
+monastery in New Zealand. What do you think about the interest of
+Westerners in the monastic path?
+
+*Tan Jotimanto*: In the West now people are interested in meditation,
+but without knowing much about the bigger picture of Dhamma practice. To
+become a monk is a very great step to take, because one has to
+relinquish a lot of attachments. But if Westerners are really
+interested, they can do it. Today they can even be ordained in the West,
+but in my opinion there are still advantages to training in the East.
+Because the *sāsana* is so rooted here, it can be very nourishing to the
+practice, especially in the early stages of monastic life. But whether
+or not to be ordained as a monk is something one needs to know for
+oneself.
+
+*Tan Dhīrapañño*: For myself, I feel it is important to add that if
+someone is really seriously about the practice, I would strongly
+recommend the monastic life. It makes the foundation in *sīla* solid and
+firm. The Buddha laid down the three-fold training of *sīla, samādhi*
+and *paññā*, but the *samādhi* that has a strong foundation in *sīla* is
+more fruitful and leads more directly towards wisdom. In the lay life
+there is often a compromise. The monk, on the other hand, can go all the
+way to the highest goal. The only limitation is his inner effort, not
+the situation outside.
+
+*Tan Paññāvuddho*: For me it is very uplifting to see so many people
+across Thailand who have a strong love for Dhamma. That can be a
+powerful inspirational and motivational force for a young monk like
+myself. Some people in the West have this love of the Dhamma, but most
+people don’t know anything about the Dhamma at all. How do you feel
+about going to a place where many people don’t know about Dhamma
+practice? They might not even know who Buddhist monks are. [Silence and
+smiles]
+
+*Tan Paññāvuddho*: Tan Joti, you lived in Manhattan for five years. Can
+you imagine going for alms-round on Fifth Avenue?
+
+*Tan Jotimanto*: No, I can’t really imagine that. But if I were in that
+situation I would have to accept it if people didn’t know what a
+Buddhist monk was, or if they looked at me strangely. But then again,
+many strange things happen in New York City. In any case, it is a good
+practice to uphold the tradition, and the sight of a simple monk walking
+for alms, practising mindfulness, might offer something to the people in
+their busy lives. These days, however, people tend to know more about
+monks. Still, if I were to go walking in New York, I would be sure to be
+prepared to answer any questions that I might receive from the people I
+met.
+
+*Tan Paññāvuddho*: Tan Jayasiri, how would you respond to the question,
+‘Who are you?’ which is sometimes asked of monks in the West, perhaps
+while they are on alms-round?
+
+*Tan Jayasiri*: If someone asked who we were, I would probably smile and
+respond that we are alms-mendicant Buddhist monks. If he asked me to
+describe our practice, I would say that we try to live a simple life. We
+practice meditation to try to understand the true nature of things in
+this world. If we can practice the teachings of the Buddha and see
+things clearly as they truly are, we can help to lessen suffering. The
+aim is to have wisdom with the thoughts, emotions and feelings that
+arise: ‘I like this’ or ‘I don’t like this’, ‘I want this’ or ‘I don’t
+want this’ – we can let go of them. If we can keep our minds above the
+worldly feelings of happiness and unhappiness, we can begin to find a
+true freedom and happiness that do not change. This may be easy to
+believe, but it is difficult to do. The practice is not easy. If the
+person who asked me had some free time, they could try to practice
+mindfulness and meditation to investigate these things on their own.
+
+*Tan Paññāvuddho*: Tan Joti, how would you respond?
+
+*Tan Jotimanto*: I would try to explain to him that I am a Buddhist monk
+who does not handle or use money, and that it is our tradition each
+morning to walk for alms. It might take some time to explain the
+Buddha’s teachings. What I would say would depend on the person’s
+background and the situation. If the situation were right, I would say
+we practice to let go, not to attain something. We do this through
+training to develop virtue, meditation and wisdom. Higher teachings on
+non-self and emptiness would be difficult to explain. It would be more
+appropriate to start with teachings about *sīla* and *mettā*, and when a
+friendly relationship was established, then we could talk about
+something deeper. If he wanted to talk more, I could invite him to visit
+the monastery to learn more about Dhamma practice and try it out for
+himself.
+
+The Interviewees
+----------------
+
+This previously unpublished interview is from the original material for
+the first edition of ‘Forest Path’. It was not included in the original
+book, probably because of its length. On re-reading, it seemed a real
+pity not to include it this time. Tan Paññāvuddho (see page
+FIXME:pageref), the main editor of the first edition of *Forest Path*,
+conducted the interview. The three monks interviewed have all in the
+meantime been abroad: Tan Jotimanto went to New Zealand, Tan Jayasiri to
+Australia, and Tan Dhīrapañño stayed with one of his former teachers in
+America, Bhante Guṇaratana. All have now returned to Thailand and are at
+present engaged in running their own little monasteries there, Tan
+Jayasiri in a remote hermitage called Mettāgiri Forest Monastery in
+Chayabhumi Province; Tan Jotimanto and Tan Dhīrapañño co-abboting Wat
+Pah Boon Lorm on the Moon River in Ubon Province, a half-hour drive from
+Wat Pah Nanachat and closely linked to it.
+
+[^1]: *sai baht* (Thai): to give alms-food (literally: to put food in a
+    monk’s bowl)
