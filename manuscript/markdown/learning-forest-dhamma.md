@@ -429,13 +429,13 @@ setting, by remarking, ‘It’s a good thing as long as it helps you with
 your meditation’. This echoes a relevant exhortation by the Buddha in
 the Saṃyutta Nikāya of the Pāli Canon:
 
-> \`Monks, the establishing of mindfulness is to be practised with the
+> ‘Monks, the establishing of mindfulness is to be practised with the
 > thought, “I’ll watch after myself.” The establishing of mindfulness is
 > to be practised with the thought, “I’ll watch after others.” When
 > watching after yourself, you watch after others. When watching after
 > others, you watch after yourself.
 >
-> \`And how do you watch after others when watching after yourself?
+> ‘And how do you watch after others when watching after yourself?
 > Through cultivating [the practice], through developing it, through
 > pursuing it. This is how you watch after others when watching after
 > yourself.

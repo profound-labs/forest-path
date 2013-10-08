@@ -263,7 +263,7 @@ had been a beneficial period for him, but he had become unsure how
 sustainable such a kind of monastic life would be in the long term. What
 he felt he lacked was Vinaya training:
 
-\`At Wat Pah Pong the emphasis was on communal activities, working
+‘At Wat Pah Pong the emphasis was on communal activities, working
 together, eating together, etc., with all its rules. I knew that if I
 was going to live as a monk I needed the monk’s training, and I hadn’t
 been getting that at the meditation centre I had been in before. What
@@ -277,7 +277,7 @@ years at Berkeley, California, where it was pretty much a case of doing
 your own thing – there was no sense of having to obey anybody or live
 under a discipline of any sort.
 
-\`But at Wat Pah Pong I had to live following a tradition that I did not
+‘But at Wat Pah Pong I had to live following a tradition that I did not
 always like or approve of, in a situation where I had no authority
 whatsoever. I had a strong sense of my own freedom and rights, and of
 asserting them, but I had no idea of serving anyone else; being a
@@ -285,7 +285,7 @@ servant was like admitting you were somehow inferior. So I found
 monastic life very useful for developing a sense for serving and
 supporting the monastic community.
 
-\`What impressed me so much about Luang Por was that although he seemed
+‘What impressed me so much about Luang Por was that although he seemed
 such a free spirit, an ebullient character, at the same time he was very
 strict with the Vinaya. It was a fascinating contrast. In California the
 idea of freedom was being spontaneous and doing what you felt like; and
@@ -318,7 +318,7 @@ comprehensive training, the creation of a context or environment in
 which any legitimate technique would bear fruit. This was exactly what
 Ajahn Sumedho felt he needed:
 
-\`You have to find someone you resonate with. I’d been in other places
+‘You have to find someone you resonate with. I’d been in other places
 and nothing had really clicked. I didn’t have a fixed idea of having a
 teacher either, I had a strong sense of independence. But with Luang Por
 I felt a very strong gut reaction. Something worked for me with him.
@@ -432,7 +432,7 @@ Ajahn Chah’s attitude to Ajahn Sumedho changed after a few years. Seeing
 his disciple’s growth in confidence and the praise he was receiving, he
 began to treat him more robustly. Ajahn Sumedho remembers:
 
-\`For the first couple of years Luang Por would compliment me a lot and
+‘For the first couple of years Luang Por would compliment me a lot and
 boost up my ego, which I appreciated because I tended to be
 self-disparaging, and his constant very positive attitude towards me was
 very helpful. Because I felt so respected and appreciated by him, I put
@@ -489,11 +489,11 @@ enlightened, not to sweep leaves off the ground.’ Just then Ajahn Chah
 approached him and said, ‘Where’s the suffering? Is Wat Pah Pong the
 suffering?’
 
-\`I suddenly realized there was something in me which was always
+‘I suddenly realized there was something in me which was always
 complaining and criticizing, and which was preventing me from ever
 giving myself or offering myself to any situation.
 
-\`Another time I had this really negative reaction to having to sit up
+‘Another time I had this really negative reaction to having to sit up
 and practice all through the night, and I must have let it show. After
 the evening chanting Luang Por reminded everyone that they should stay
 and meditate right through to dawn. “Except”, he said, “for Sumedho, he

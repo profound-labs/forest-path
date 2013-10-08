@@ -26,7 +26,7 @@ has spent many months in hospital over the past year and had two
 operations. Now she is back at home in her house among the rice fields
 between the monastery and the main road.
 
-\`I’ve been going to monasteries for as long as I can remember. When I
+‘I’ve been going to monasteries for as long as I can remember. When I
 was a young girl my mother would always take me with her when she went
 to make merit. After I got married I used to go to Wat Pah Pong on
 Observance Days. I loved it so much: making food for the monks,
@@ -43,14 +43,14 @@ right in front of the wat, we built a house on it and now [she smiles
 widely] it looks like I’m not going to have an old age after all. I must
 admit that sometimes I wish I had accumulated more merit in my life.
 
-\`I meditate whenever I can, whenever the pain is not so bad. I chant in
+‘I meditate whenever I can, whenever the pain is not so bad. I chant in
 the morning and evenings. Actually, these days I often do the evening
 service at three o’clock in the afternoon! The pain usually comes on in
 the evening, you see, and I’m afraid it will stop me from chanting. But
 today, I’ve been so excited all day waiting for Ajahn Jayasāro to come
 to visit that I’ve felt fine all day.
 
-\`I felt homesick when I was in the hospital in Bangkok having my
+‘I felt homesick when I was in the hospital in Bangkok having my
 operation. It all took such a long time. On the days when I could sit
 up, I did the morning and evening chanting normally. When I couldn’t sit
 up, I chanted as best I could lying down. Then that first time Ajahn
@@ -94,7 +94,7 @@ impressed by the dedication of the monks. I came to know for the first
 time that monks are not supposed to use money, and I began to realize
 the way monks are supposed to live.
 
-\`The result of coming to the wat over the years that I see most clearly
+‘The result of coming to the wat over the years that I see most clearly
 is that I’m a lot more calm and patient than I used to be. I’m basically
 quite a forceful, headstrong kind of person. Listening to the Dhamma and
 the teachings of the Buddha and trying to put them into practice, I’ve

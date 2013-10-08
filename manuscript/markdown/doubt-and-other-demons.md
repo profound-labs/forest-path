@@ -18,7 +18,7 @@ following the best course of action. In other words, he must have proof
 of the truth of a proposition before seeking to verify it. The Buddha
 compared this to travelling in a wilderness. The commentary explains:
 
-\`A man travels through a desert, and being aware that travellers may be
+‘A man travels through a desert, and being aware that travellers may be
 plundered or killed by robbers, he will, on the mere sound of a twig or
 a bird, get anxious and fearful, thinking “The robbers have come!” He
 will go a few steps, and then out of fear he will stop, and continue in
@@ -138,7 +138,7 @@ Buddha declared, a gradual path, one that depends on gradual maturing.
 If we are in a hurry, our inability to speed things up can feel highly
 frustrating. Once Ajahn Chah taught an impatient disciple:
 
-\`Meditating in order to realize peace is not the same as pressing a
+‘Meditating in order to realize peace is not the same as pressing a
 switch or putting on an electric light and expecting everything to be
 immediately flooded with light. In the sentence of effort you can’t miss
 out any words or phrases. All dhammas arise from causes. When causes
@@ -154,7 +154,7 @@ through someone else’s words. You have to discover it for yourself. You
 don’t have to meditate a lot, you can do just a little, but do it every
 day. And do walking meditation every day as well.
 
-\`Irrespective of whether you do a lot or a little, do it every day. Be
+‘Irrespective of whether you do a lot or a little, do it every day. Be
 sparing with your speech and watch your mind the whole time. Just refute
 whatever arises in your mind, whether it’s pleasure or pain. None of it
 lasts; it’s all deceptive. With some people who’ve never practised
@@ -260,7 +260,7 @@ Only the posture changes
 
 A constantly recurring theme in Ajahn Chah’s teachings is the emphasis
 on continuity of mindfulness. On one occasion he instructed the Sangha:
-\`Meditation isn’t bound to either standing or walking or sitting or
+‘Meditation isn’t bound to either standing or walking or sitting or
 lying down, but as we can’t live our lives completely motionless and
 inactive, we have to incorporate all these four postures into our
 practice. And the guiding principle to be relied on in each of them is
@@ -292,7 +292,7 @@ This means that such wholesome qualities as illumination, knowledge,
 rapture, bliss, strong mindfulness and equanimity arise and mislead the
 meditator into a belief that he or she is enlightened:
 
-\`Don’t stick your nose up in the air because of your practice. Don’t
+‘Don’t stick your nose up in the air because of your practice. Don’t
 make too much out of your experiences. Let things proceed in peace. You
 don’t have to be ambitious and want to get or to become anything at all.
 After they’ve been practising for a while, some people have a few
