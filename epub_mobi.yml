@@ -2,16 +2,39 @@
 # Epub and Mobi
 # =============
 
-bookid: "ProphecyBookId"
+bookid: "ForestPath"
+
+toc:
+  - { the_matter: frontmatter }
+  - { title: "Cover", src: 'cover.xhtml.erb', target: epub, layout: none, type: cover, linear: no }
+  - { title: "Title Page", src: 'titlepage.xhtml.erb', target: epub, type: title-page }
+  - { title: "Contents", src: 'toc.xhtml.erb', target: epub, type: toc }
+  - preface.md
+  - { title: "Title Page", src: 'titlepage.xhtml.erb', target: mobi, type: text, class: title-page }
+  - { title: "Contents", src: 'toc.xhtml.erb', target: mobi, type: toc }
+  - { the_matter: mainmatter, section_number: 1 }
+  - like-a-boat.md
+  - nameless-labyrinth.markdown
+  - time-machine.markdown
+  - { section_name: "Appendix", section_number: 1 }
+  - further-comments.markdown
+  - { the_matter: backmatter }
+  - glossary.md
+
+cover_image: "cover.jpg"
+
+exclude_assets: [ "cover.xcf", ]
 
 # ISBN for the ebook editions
 isbn: "000-0-000000-00-0"
 
-# BISAC Subject Headings List:
-# http://www.bisg.org/what-we-do-0-136-bisac-subject-headings-list-major-subjects.php
+publisher: "Aruno Publications"
+publisher_atag: "<a href='http://ratanagiri.org.uk/' target='_blank'>www.ratanagiri.org.uk</a>"
+publisher_logo: "publisher-logo.jpg"
+book_atag: "<a href='http://fsbooks.org/' target='_blank'>www.fsbooks.org</a>"
 
-#subject: LIST / OF / SUBJECTS
-#source: http://www.source.org/
+subject: RELIGION / Buddhism / Theravada
+source: http://www.fsbooks.org/
 
 # MARC Code List for Relators:
 # Editor [edt], Cover designer [cov], Translator [trl],
