@@ -6,7 +6,7 @@ Forest Path
 
 by Various
 
-Paperback status: **COMPLETED**\\
+Paperback status: **COMPLETED**  
 Ebook status: **COMPLETED**
 
 ISBN for paperback: `978-1-908444-35-6`
