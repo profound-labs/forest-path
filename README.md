@@ -13,5 +13,5 @@ ISBN for paperback: `978-1-908444-35-6`
 
 ISBN for ebooks: `978-1-908444-41-7`
 
-Find the final PDF files in `publish/final/` folder.
+Find the final PDF, EPUB and MOBI files in `publish/final/` folder.
 
