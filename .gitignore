@@ -8,6 +8,7 @@
 *.gls
 *.xdy
 auto/
+docs/
 publish/pdf/
 publish/mobi/
 publish/epub/
