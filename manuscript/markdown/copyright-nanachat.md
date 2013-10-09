@@ -12,7 +12,7 @@ Northumberland, Great Britain\\
 This book is available for free download at\\
 [www.forestsanghabooks.org](http://forestsanghabooks.org/)
 
-ISBN
+ISBN 978-1-908444-41-7
 
 Copyright (c) 2013 WAT PAH NANACHAT
 

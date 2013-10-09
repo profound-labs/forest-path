@@ -60,9 +60,9 @@
 
   <manifest>
     
-    <item href="stylesheets/style-mobi-kf8.css" id="stylesheets-style-mobi-kf8-css" media-type="text/css" />
+    <item href="stylesheets/style-mobi.css" id="stylesheets-style-mobi-css" media-type="text/css" />
     
-    <item href="stylesheets/style-epub.css" id="stylesheets-style-epub-css" media-type="text/css" />
+    <item href="stylesheets/style-mobi-kf8.css" id="stylesheets-style-mobi-kf8-css" media-type="text/css" />
     
     <item href="images/cover.jpg" id="cover-image" media-type="image/jpeg" />
     
@@ -95,8 +95,6 @@
     <item href="chapters/mindfulness-with-mosquitoes.xhtml" id="chapter_mindfulness-with-mosquitoes" media-type="application/xhtml+xml" />
     
     <item href="chapters/hey-man.xhtml" id="chapter_hey-man-don-t-give-up-your-music-" media-type="application/xhtml+xml" />
-    
-    <item href="chapters/cover.xhtml" id="chapter_cover" media-type="application/xhtml+xml" />
     
     <item href="chapters/preface-second-edition-2013.xhtml" id="chapter_preface-to-the-second-edition-2013" media-type="application/xhtml+xml" />
     
@@ -158,12 +156,6 @@
        -->
   <spine toc="ncx">
     
-    <itemref idref='chapter_cover'  />
-    
-    <itemref idref='chapter_title-page'  />
-    
-    <itemref idref='chapter_contents'  />
-    
     <itemref idref='chapter_copyright'  />
     
     <itemref idref='chapter_dedication'  />
@@ -173,6 +165,10 @@
     <itemref idref='chapter_preface-to-the-second-edition-2013'  />
     
     <itemref idref='chapter_luang-por'  />
+    
+    <itemref idref='chapter_title-page'  />
+    
+    <itemref idref='chapter_contents'  />
     
     <itemref idref='chapter_twain-shall-meet'  />
     
@@ -225,12 +221,6 @@
        -->
   <guide>
     
-    <reference href='chapters/cover.xhtml' title="Cover" type='cover' />
-    
-    <reference href='chapters/titlepage.xhtml' title="Title Page" type='title-page' />
-    
-    <reference href='chapters/toc.xhtml' title="Contents" type='toc' />
-    
     <reference href='chapters/copyright-nanachat.xhtml' title="Copyright" type='copyright-page' />
     
     <reference href='chapters/dedication.xhtml' title="Dedication" type='dedication' />
@@ -240,6 +230,10 @@
     <reference href='chapters/preface-second-edition-2013.xhtml' title="Preface to the Second Edition, 2013" type='preface' />
     
     
+    
+    <reference href='chapters/titlepage.xhtml' title="Title Page" type='text' />
+    
+    <reference href='chapters/toc.xhtml' title="Contents" type='toc' />
     
     
     

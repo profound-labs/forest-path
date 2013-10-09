@@ -42,7 +42,7 @@ cover_image: "cover.jpg"
 exclude_assets: [ "cover.xcf", ]
 
 # ISBN for the ebook editions
-isbn: "000-0-000000-00-0"
+isbn: "978-1-908444-41-7"
 
 publisher: "Aruno Publications"
 publisher_atag: "<a href='http://ratanagiri.org.uk/' target='_blank'>www.ratanagiri.org.uk</a>"

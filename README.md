@@ -7,9 +7,11 @@ Forest Path
 by Various
 
 Paperback status: **COMPLETED**\\
-Ebook status: **Work in progress**
+Ebook status: **COMPLETED**
 
 ISBN for paperback: `978-1-908444-35-6`
+
+ISBN for ebooks: `978-1-908444-41-7`
 
 Find the final PDF files in `publish/final/` folder.
 
